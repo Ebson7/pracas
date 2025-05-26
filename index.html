@@ -8,7 +8,18 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Font Awesome para ícones -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
     <style>
+        :root {
+            --cor-primaria: #003366;
+            --cor-secundaria: #336699;
+            --cor-fundo: #F0F0F0;
+            --cor-texto: #000000;
+        }
+        body {
+            background-color: var(--cor-fundo);
+            color: var(--cor-texto);
+        }
         .filter-card {
             transition: all 0.3s ease;
         }
@@ -22,7 +33,7 @@
         .table thead th {
             position: sticky;
             top: 0;
-            background-color: #f8f9fa;
+            background-color: var(--cor-fundo);
             z-index: 1;
         }
         .highlight {
@@ -31,12 +42,29 @@
         .btn-filter {
             min-width: 100px;
         }
+        .card-header.bg-primary {
+            background-color: var(--cor-primaria) !important;
+        }
+        .card-header.bg-success {
+            background-color: var(--cor-secundaria) !important;
+        }
+        .btn-outline-primary {
+            color: var(--cor-primaria);
+            border-color: var(--cor-primaria);
+        }
+        .btn-outline-primary:hover {
+            background-color: var(--cor-primaria);
+            color: #fff;
+        }
     </style>
 </head>
 <body>
     <div class="container-fluid py-4">
-        <h1 class="text-center mb-4">Consulta de Praças e Municípios</h1>
-        
+        <h1 class="text-center mb-4 d-flex align-items-center justify-content-center">
+            <img src="LOGO MARSIL 2020 HORIZONTAL.png" alt="Logo Marsil" style="height: 50px; margin-right: 10px;">
+            Consulta de Praças e Municípios
+        </h1>
+
         <!-- Filtro Simples -->
         <div class="row mb-4">
             <div class="col-md-12">
@@ -54,7 +82,7 @@
                 </div>
             </div>
         </div>
-        
+
         <!-- Filtros Avançados -->
         <div class="row mb-4">
             <div class="col-md-12">
@@ -108,7 +136,7 @@
                 </div>
             </div>
         </div>
-        
+
         <!-- Resultados e Estatísticas -->
         <div class="row mb-3">
             <div class="col-md-6">
@@ -138,7 +166,7 @@
                 </div>
             </div>
         </div>
-        
+
         <!-- Tabela de Dados -->
         <div class="table-container">
             <table class="table table-striped table-hover" id="dataTable">
@@ -158,7 +186,7 @@
                 </tbody>
             </table>
         </div>
-        
+
         <!-- Paginação -->
         <div class="d-flex justify-content-between align-items-center mt-3">
             <div>
@@ -170,9 +198,7 @@
                 </select>
             </div>
             <nav>
-                <ul class="pagination" id="pagination">
-                    <!-- Paginação será gerada via JavaScript -->
-                </ul>
+                <ul class="pagination" id="pagination"></ul>
             </nav>
         </div>
     </div>
