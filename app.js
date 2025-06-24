@@ -5,6 +5,8 @@ let currentPage = 1;
 let rowsPerPage = 10;
 let currentSortColumn = '';
 let currentSortOrder = 'asc';
+let map;
+let markersLayer;
 let uniqueValues = {};
 
 // Carregar dados do arquivo JSON
@@ -19,10 +21,12 @@ document.addEventListener('DOMContentLoaded', async function() {
             filteredData = zona ? allData.filter(d => d.zona === zona) : [...allData];
             updateTable();
             updateStats();
+            centralizarNoMapa(filteredData);
         });
     }
 
-    const map = L.map('map').setView([-23.55, -46.63], 10);
+    map = L.map('map').setView([-23.55, -46.63], 10);
+    markersLayer = L.layerGroup().addTo(map);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
 
     const addMapMarkers = (data) => {
@@ -55,6 +59,7 @@ document.addEventListener('DOMContentLoaded', async function() {
         
         // Atualizar estatísticas
         updateStats();
+            centralizarNoMapa(filteredData);
     } catch (error) {
         console.error('Erro:', error);
         document.getElementById('resultStats').innerHTML = 
@@ -152,6 +157,7 @@ function handleQuickFilter() {
     currentPage = 1;
     updateTable();
     updateStats();
+            centralizarNoMapa(filteredData);
 }
 
 // Limpar filtro rápido
@@ -179,6 +185,7 @@ function applyAdvancedFilters() {
     currentPage = 1;
     updateTable();
     updateStats();
+            centralizarNoMapa(filteredData);
 }
 
 // Limpar filtros avançados
@@ -193,6 +200,7 @@ function clearAdvancedFilters() {
     currentPage = 1;
     updateTable();
     updateStats();
+            centralizarNoMapa(filteredData);
 }
 
 // Alternar visibilidade dos filtros avançados
@@ -382,4 +390,21 @@ function exportToCSV() {
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
+}
+
+
+function centralizarNoMapa(dados) {
+    if (!map || !markersLayer) return;
+    markersLayer.clearLayers();
+    dados.forEach(item => {
+        if (item.lat && item.lng) {
+            const marker = L.marker([item.lat, item.lng])
+                .bindPopup(`<strong>${item.nome}</strong><br>${item.municipio}`)
+                .addTo(markersLayer);
+        }
+    });
+
+    if (dados.length > 0 && dados[0].lat && dados[0].lng) {
+        map.setView([dados[0].lat, dados[0].lng], 13);
+    }
 }
