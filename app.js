@@ -408,3 +408,21 @@ function centralizarNoMapa(dados) {
         map.setView([dados[0].lat, dados[0].lng], 13);
     }
 }
+
+
+// Observa a tabela por mudanças e tenta extrair cidade da primeira linha
+const observer = new MutationObserver(() => {
+    const rows = document.querySelectorAll('#resultTable tbody tr');
+    if (rows.length > 0) {
+        const municipioCell = rows[0].querySelector('td:nth-child(2)');
+        const municipio = municipioCell ? municipioCell.textContent.trim().toLowerCase() : '';
+        if (municipio) {
+            const encontrados = allData.filter(d => d.municipio.toLowerCase() === municipio);
+            centralizarNoMapa(encontrados);
+        }
+    }
+});
+const tabela = document.querySelector('#resultTable tbody');
+if (tabela) {
+    observer.observe(tabela, { childList: true, subtree: true });
+}
