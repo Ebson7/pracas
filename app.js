@@ -8,7 +8,31 @@ let currentSortOrder = 'asc';
 let uniqueValues = {};
 
 // Carregar dados do arquivo JSON
+
 document.addEventListener('DOMContentLoaded', async function() {
+    const loader = document.getElementById('loader');
+    const filtroZona = document.getElementById('filtroZona');
+
+    if (filtroZona) {
+        filtroZona.addEventListener('change', () => {
+            const zona = filtroZona.value;
+            filteredData = zona ? allData.filter(d => d.zona === zona) : [...allData];
+            updateTable();
+            updateStats();
+        });
+    }
+
+    const map = L.map('map').setView([-23.55, -46.63], 10);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+    const addMapMarkers = (data) => {
+        data.forEach(item => {
+            if (item.lat && item.lng) {
+                L.marker([item.lat, item.lng]).addTo(map).bindPopup(item.nome || "Praça");
+            }
+        });
+    };
+
     try {
         const response = await fetch('data.json');
         if (!response.ok) {
@@ -21,6 +45,8 @@ document.addEventListener('DOMContentLoaded', async function() {
         // Inicializar os filtros avançados
         initializeFilters();
         
+        addMapMarkers(filteredData);
+        loader.style.display = 'none';
         // Renderizar a tabela inicial
         updateTable();
         
