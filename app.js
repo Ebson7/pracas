@@ -3,9 +3,26 @@ document.addEventListener('DOMContentLoaded', async function () {
     const loader = document.getElementById('loader');
     if (loader) loader.style.display = 'block';
 
+    const STORAGE_KEY = 'dadosCidadesSP';
+    const STORAGE_DATE_KEY = 'dadosCidadesSP_data';
+    const hoje = new Date().toISOString().split('T')[0];
+
+    let allData = [];
+
     try {
-        const response = await fetch('data.json');
-        const allData = await response.json();
+        const cacheData = localStorage.getItem(STORAGE_KEY);
+        const cacheDate = localStorage.getItem(STORAGE_DATE_KEY);
+
+        if (cacheData && cacheDate === hoje) {
+            allData = JSON.parse(cacheData);
+            console.log('✔️ Dados carregados do cache local');
+        } else {
+            const response = await fetch('data.json');
+            allData = await response.json();
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(allData));
+            localStorage.setItem(STORAGE_DATE_KEY, hoje);
+            console.log('⬇️ Dados baixados e salvos no cache');
+        }
 
         if (loader) loader.style.display = 'none';
 
@@ -16,16 +33,19 @@ document.addEventListener('DOMContentLoaded', async function () {
         const input = document.getElementById('filtroRapido');
         input.addEventListener('input', () => {
             const termo = input.value.toLowerCase();
-            const encontrado = allData.find(c => c.municipio.toLowerCase().includes(termo));
-            if (encontrado && encontrado.lat && encontrado.lng) {
+            const encontrado = allData.find(c => c.m.toLowerCase().includes(termo));
+            if (encontrado && encontrado.a && encontrado.o) {
                 markersLayer.clearLayers();
-                const marker = L.marker([encontrado.lat, encontrado.lng])
+                const marker = L.marker([encontrado.a, encontrado.o])
                     .addTo(markersLayer)
-                    .bindPopup(`<strong>${encontrado.municipio}</strong>`)
+                    .bindPopup(`<strong>${encontrado.m}</strong>`)
                     .openPopup();
-                map.setView([encontrado.lat, encontrado.lng], 12);
+                map.setView([encontrado.a, encontrado.o], 12);
             }
         });
+
+        // Filtros adicionais podem ser implementados aqui no futuro
+
     } catch (error) {
         if (loader) loader.innerText = 'Erro ao carregar os dados.';
         console.error('Erro ao carregar dados:', error);
