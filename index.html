@@ -94,15 +94,9 @@
 <body>
     <div id="loader">🔄 Carregando dados...</div>
     <div class="container mt-3">
-        <label for="filtroZona"><strong>Filtrar por Zona:</strong></label>
-        <select id="filtroZona" class="form-select mb-3">
-            <option value="">Todas</option>
-            <option value="Zona Norte">Zona Norte</option>
-            <option value="Zona Sul">Zona Sul</option>
-            <option value="Zona Leste">Zona Leste</option>
-            <option value="Zona Oeste">Zona Oeste</option>
-            <option value="Centro">Centro</option>
-        </select>
+        <label for="searchCidade"><strong>Buscar por Cidade:</strong></label>
+        <input type="text" id="searchCidade" class="form-control mb-3" placeholder="Digite o nome da cidade...">
+    
         <div id="map"></div>
     </div>
 

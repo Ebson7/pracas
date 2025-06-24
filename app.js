@@ -13,12 +13,12 @@ let uniqueValues = {};
 
 document.addEventListener('DOMContentLoaded', async function() {
     const loader = document.getElementById('loader');
-    const filtroZona = document.getElementById('filtroZona');
+    const searchCidade = document.getElementById('searchCidade');
 
-    if (filtroZona) {
-        filtroZona.addEventListener('change', () => {
-            const zona = filtroZona.value;
-            filteredData = zona ? allData.filter(d => d.zona === zona) : [...allData];
+    if (searchCidade) {
+        searchCidade.addEventListener('input', () => {
+            const termo = searchCidade.value.toLowerCase();
+            filteredData = termo ? allData.filter(d => d.municipio.toLowerCase().includes(termo)) : [...allData];
             updateTable();
             updateStats();
             centralizarNoMapa(filteredData);
