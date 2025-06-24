@@ -1,7 +1,10 @@
 
 document.addEventListener('DOMContentLoaded', async function () {
+    const loader = document.getElementById('loader');
     const response = await fetch('data.json');
     const allData = await response.json();
+    if (loader) loader.style.display = 'none';
+
     let map = L.map('map').setView([-23.55, -46.63], 8);
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
     let markersLayer = L.layerGroup().addTo(map);
