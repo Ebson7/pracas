@@ -1,5816 +1,3067 @@
 [
   {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Adamantina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Flora Rica",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Flórida Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Inúbia Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Irapuru",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Lucélia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Mariápolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Osvaldo Cruz",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Pacaembu",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Parapuã",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Pracinha",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Rinópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Sagres",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Adamantina",
-    "Cidade": "Salmourão",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Amparo",
-    "Cidade": "Águas de Lindóia",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Amparo",
-    "Cidade": "Amparo",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Amparo",
-    "Cidade": "Lindóia",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Amparo",
-    "Cidade": "Monte Alegre do Sul",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Amparo",
-    "Cidade": "Pedra Bela",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Amparo",
-    "Cidade": "Pinhalzinho",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Amparo",
-    "Cidade": "Serra Negra",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Amparo",
-    "Cidade": "Socorro",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Amparo",
-    "Cidade": "Jaguariúna",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Andradina",
-    "Cidade": "Andradina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Andradina",
-    "Cidade": "Castilho",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Andradina",
-    "Cidade": "Guaraçaí",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Andradina",
-    "Cidade": "Ilha Solteira",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Andradina",
-    "Cidade": "Itapura",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Andradina",
-    "Cidade": "Mirandópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Andradina",
-    "Cidade": "Murutinga do Sul",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Andradina",
-    "Cidade": "Nova Independência",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Andradina",
-    "Cidade": "Pereira Barreto",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Andradina",
-    "Cidade": "Sud Mennucci",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Andradina",
-    "Cidade": "Suzanápolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Araçatuba",
-    "Cidade": "Araçatuba",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Araçatuba",
-    "Cidade": "Bento de Abreu",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Araçatuba",
-    "Cidade": "Guararapes",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Araçatuba",
-    "Cidade": "Lavínia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Araçatuba",
-    "Cidade": "Rubiácea",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Araçatuba",
-    "Cidade": "Santo Antônio do Aracanguá",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Araçatuba",
-    "Cidade": "Valparaíso",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Américo Brasiliense",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Araraquara",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Boa Esperança do Sul",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Borborema",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Dobrada",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Gavião Peixoto",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Ibitinga",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Itápolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Matão",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Motuca",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Nova Europa",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Rincão",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Santa Lúcia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Tabatinga",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de Araraquara",
-    "Cidade": "Trabiju",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Assis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Borá",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Campos Novos Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Cândido Mota",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Cruzália",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Florínea",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Ibirarema",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Iepê",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Lutécia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Maracaí",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Nantes",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Palmital",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Paraguaçu Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Pedrinhas Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Platina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Quatá",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Assis",
-    "Cidade": "Tarumã",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Auriflama",
-    "Cidade": "Auriflama",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Auriflama",
-    "Cidade": "Floreal",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Auriflama",
-    "Cidade": "Gastão Vidigal",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Auriflama",
-    "Cidade": "General Salgado",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Auriflama",
-    "Cidade": "Guzolândia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Auriflama",
-    "Cidade": "Magda",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Auriflama",
-    "Cidade": "Nova Castilho",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Auriflama",
-    "Cidade": "Nova Luzitânia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Auriflama",
-    "Cidade": "São João de Iracema",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Avaré",
-    "Cidade": "Águas de Santa Bárbara",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Avaré",
-    "Cidade": "Arandu",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Avaré",
-    "Cidade": "Avaré",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Avaré",
-    "Cidade": "Cerqueira César",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Avaré",
-    "Cidade": "Iaras",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Avaré",
-    "Cidade": "Itaí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Avaré",
-    "Cidade": "Itatinga",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Avaré",
-    "Cidade": "Paranapanema",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Avaré",
-    "Cidade": "Fartura",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Avaré",
-    "Cidade": "Piraju",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Avaré",
-    "Cidade": "Taguaí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Avaré",
-    "Cidade": "Tejupá",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Avaré",
-    "Cidade": "Timburi",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Bananal",
-    "Cidade": "Arapeí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Bananal",
-    "Cidade": "Areias",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Bananal",
-    "Cidade": "Bananal",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Bananal",
-    "Cidade": "São José do Barreiro",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Bananal",
-    "Cidade": "Silveiras",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Barretos",
-    "Cidade": "Barretos",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Barretos",
-    "Cidade": "Colina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Barretos",
-    "Cidade": "Colômbia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Barretos",
-    "Cidade": "Pitangueiras",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Barretos",
-    "Cidade": "Monte Azul Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Barretos",
-    "Cidade": "Viradouro",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Barretos",
-    "Cidade": "Bebedouro",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Batatais",
-    "Cidade": "Altinópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Batatais",
-    "Cidade": "Batatais",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Batatais",
-    "Cidade": "Cajuru",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Batatais",
-    "Cidade": "Cássia dos Coqueiros",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Batatais",
-    "Cidade": "Santa Cruz da Esperança",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Batatais",
-    "Cidade": "Santo Antônio da Alegria",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Agudos",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Arealva",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Areiópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Avaí",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Balbinos",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Bauru",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Borebi",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Cabrália Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Duartina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Guarantã",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Iacanga",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Lençóis Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Lucianópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Paulistânia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Piratininga",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Ubirajara",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Bauru",
-    "Cidade": "Uru",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Alto Alegre",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Avanhandava",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Barbosa",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Bilac",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Birigui",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Braúna",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Brejo Alegre",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Buritama",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Clementina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Coroados",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Gabriel Monteiro",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Glicério",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Lourdes",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Luiziânia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Penápolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Piacatu",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Santópolis do Aguapeí",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araçatuba",
-    "Praca": "Praça de Birigui",
-    "Cidade": "Turiúba",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Botucatu",
-    "Cidade": "Anhembi",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Botucatu",
-    "Cidade": "Bofete",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Botucatu",
-    "Cidade": "Botucatu",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Botucatu",
-    "Cidade": "Conchas",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Botucatu",
-    "Cidade": "Pardinho",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Botucatu",
-    "Cidade": "Pratânia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Botucatu",
-    "Cidade": "São Manuel",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Macro Metrop.",
-    "Praca": "Praça de Bragança Paulista",
-    "Cidade": "Atibaia",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Macro Metrop.",
-    "Praca": "Praça de Bragança Paulista",
-    "Cidade": "Bom Jesus dos Perdões",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Macro Metrop.",
-    "Praca": "Praça de Bragança Paulista",
-    "Cidade": "Bragança Paulista",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Macro Metrop.",
-    "Praca": "Praça de Bragança Paulista",
-    "Cidade": "Itatiba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Macro Metrop.",
-    "Praca": "Praça de Bragança Paulista",
-    "Cidade": "Jarinu",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Macro Metrop.",
-    "Praca": "Praça de Bragança Paulista",
-    "Cidade": "Joanópolis",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Macro Metrop.",
-    "Praca": "Praça de Bragança Paulista",
-    "Cidade": "Morungaba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Macro Metrop.",
-    "Praca": "Praça de Bragança Paulista",
-    "Cidade": "Nazaré Paulista",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Macro Metrop.",
-    "Praca": "Praça de Bragança Paulista",
-    "Cidade": "Piracaia",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Macro Metrop.",
-    "Praca": "Praça de Bragança Paulista",
-    "Cidade": "Tuiuti",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Macro Metrop.",
-    "Praca": "Praça de Bragança Paulista",
-    "Cidade": "Vargem",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Brotas",
-    "Cidade": "Dois Córregos",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Brotas",
-    "Cidade": "Mineiros do Tietê",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Brotas",
-    "Cidade": "Brotas",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Brotas",
-    "Cidade": "Torrinha",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Campinas",
-    "Cidade": "Americana",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Campinas",
-    "Cidade": "Campinas",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Campinas",
-    "Cidade": "Hortolândia",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Campinas",
-    "Cidade": "Nova Odessa",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Campinas",
-    "Cidade": "Paulínia",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Campinas",
-    "Cidade": "Pedreira",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Campinas",
-    "Cidade": "Santa Bárbara d'Oeste",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Campinas",
-    "Cidade": "Sumaré",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Campinas",
-    "Cidade": "Valinhos",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Campinas",
-    "Cidade": "Vinhedo",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Campos do Jordão",
-    "Cidade": "Campos do Jordão",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Campos do Jordão",
-    "Cidade": "Monteiro Lobato",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Campos do Jordão",
-    "Cidade": "Santo Antônio do Pinhal",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Campos do Jordão",
-    "Cidade": "São Bento do Sapucaí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Capão Bonito",
-    "Cidade": "Apiaí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Capão Bonito",
-    "Cidade": "Barra do Chapéu",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Capão Bonito",
-    "Cidade": "Capão Bonito",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Capão Bonito",
-    "Cidade": "Guapiara",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Capão Bonito",
-    "Cidade": "Iporanga",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Capão Bonito",
-    "Cidade": "Itaóca",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Capão Bonito",
-    "Cidade": "Itapirapuã Paulista",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Capão Bonito",
-    "Cidade": "Ribeira",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Capão Bonito",
-    "Cidade": "Ribeirão Branco",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Capão Bonito",
-    "Cidade": "Ribeirão Grande",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Caraguatatuba",
-    "Cidade": "Caraguatatuba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Caraguatatuba",
-    "Cidade": "Ilhabela",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Caraguatatuba",
-    "Cidade": "São Sebastião",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Caraguatatuba",
-    "Cidade": "Ubatuba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Ariranha",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Cajobi",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Catanduva",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Catiguá",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Elisiário",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Embaúba",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Novais",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Palmares Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Paraíso",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Pindorama",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Santa Adélia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Severínia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Tabapuã",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Catanduva",
-    "Cidade": "Itaju",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Cerquilho",
-    "Cidade": "Elias Fausto",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Cerquilho",
-    "Cidade": "Monte Mor",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Cerquilho",
-    "Cidade": "Cerquilho",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Cerquilho",
-    "Cidade": "Capivari",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Cerquilho",
-    "Cidade": "Rafard",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Cerquilho",
-    "Cidade": "Tietê",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Dracena",
-    "Cidade": "Dracena",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Dracena",
-    "Cidade": "Junqueirópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Dracena",
-    "Cidade": "Monte Castelo",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Dracena",
-    "Cidade": "Nova Guataporanga",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Dracena",
-    "Cidade": "Ouro Verde",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Dracena",
-    "Cidade": "Panorama",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Dracena",
-    "Cidade": "Paulicéia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Dracena",
-    "Cidade": "Santa Mercedes",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Dracena",
-    "Cidade": "São João do Pau-d'Alho",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Dracena",
-    "Cidade": "Tupi Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Fernandópolis",
-    "Cidade": "Estrela d'Oeste",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Fernandópolis",
-    "Cidade": "Fernandópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Fernandópolis",
-    "Cidade": "Guarani d'Oeste",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Fernandópolis",
-    "Cidade": "Indiaporã",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Fernandópolis",
-    "Cidade": "Macedônia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Fernandópolis",
-    "Cidade": "Meridiano",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Fernandópolis",
-    "Cidade": "Mira Estrela",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Fernandópolis",
-    "Cidade": "Ouroeste",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Fernandópolis",
-    "Cidade": "Pedranópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Fernandópolis",
-    "Cidade": "São João das Duas Pontes",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Fernandópolis",
-    "Cidade": "Turmalina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Franca",
-    "Cidade": "Cristais Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Franca",
-    "Cidade": "Franca",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Franca",
-    "Cidade": "Itirapuã",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Franca",
-    "Cidade": "Jeriquara",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Franca",
-    "Cidade": "Patrocínio Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Franca",
-    "Cidade": "Pedregulho",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Franca",
-    "Cidade": "Restinga",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Franca",
-    "Cidade": "Ribeirão Corrente",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Franca",
-    "Cidade": "Rifaina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Franca",
-    "Cidade": "São José da Bela Vista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Franco da Rocha",
-    "Cidade": "Caieiras",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Franco da Rocha",
-    "Cidade": "Francisco Morato",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Franco da Rocha",
-    "Cidade": "Franco da Rocha",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Franco da Rocha",
-    "Cidade": "Mairiporã",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Guaratinguetá",
-    "Cidade": "Aparecida",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Guaratinguetá",
-    "Cidade": "Cachoeira Paulista",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Guaratinguetá",
-    "Cidade": "Canas",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Guaratinguetá",
-    "Cidade": "Cruzeiro",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Guaratinguetá",
-    "Cidade": "Guaratinguetá",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Guaratinguetá",
-    "Cidade": "Lavrinhas",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Guaratinguetá",
-    "Cidade": "Lorena",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Guaratinguetá",
-    "Cidade": "Piquete",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Guaratinguetá",
-    "Cidade": "Potim",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Guaratinguetá",
-    "Cidade": "Queluz",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Guaratinguetá",
-    "Cidade": "Roseira",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Guarulhos",
-    "Cidade": "Arujá",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Guarulhos",
-    "Cidade": "Guarulhos",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Guarulhos",
-    "Cidade": "Santa Isabel",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Itanhaém",
-    "Cidade": "Itanhaém",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Itanhaém",
-    "Cidade": "Itariri",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Itanhaém",
-    "Cidade": "Mongaguá",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Itanhaém",
-    "Cidade": "Pedro de Toledo",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Itanhaém",
-    "Cidade": "Peruíbe",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Itapecerica da Serra",
-    "Cidade": "Cotia",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Itapecerica da Serra",
-    "Cidade": "Embu",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Itapecerica da Serra",
-    "Cidade": "Embu-Guaçu",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Itapecerica da Serra",
-    "Cidade": "Itapecerica da Serra",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Itapecerica da Serra",
-    "Cidade": "Taboão da Serra",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Itapecerica da Serra",
-    "Cidade": "Vargem Grande Paulista",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapetininga",
-    "Cidade": "Alambari",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapetininga",
-    "Cidade": "Angatuba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapetininga",
-    "Cidade": "Campina do Monte Alegre",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapetininga",
-    "Cidade": "Guareí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapetininga",
-    "Cidade": "Itapetininga",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapetininga",
-    "Cidade": "São Miguel Arcanjo",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapetininga",
-    "Cidade": "Sarapuí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapeva",
-    "Cidade": "Barão de Antonina",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapeva",
-    "Cidade": "Bom Sucesso de Itararé",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapeva",
-    "Cidade": "Buri",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapeva",
-    "Cidade": "Coronel Macedo",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapeva",
-    "Cidade": "Itaberá",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapeva",
-    "Cidade": "Itapeva",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapeva",
-    "Cidade": "Itaporanga",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapeva",
-    "Cidade": "Itararé",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapeva",
-    "Cidade": "Nova Campina",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapeva",
-    "Cidade": "Riversul",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapeva",
-    "Cidade": "Taquarituba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Itapeva",
-    "Cidade": "Taquarivaí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Itu",
-    "Cidade": "Indaiatuba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Itu",
-    "Cidade": "Itu",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Itu",
-    "Cidade": "Salto",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Itu",
-    "Cidade": "Salto de Pirapora",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ituverava",
-    "Cidade": "Aramina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ituverava",
-    "Cidade": "Buritizal",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ituverava",
-    "Cidade": "Guará",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ituverava",
-    "Cidade": "Igarapava",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ituverava",
-    "Cidade": "Ituverava",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jaboticabal",
-    "Cidade": "Cândido Rodrigues",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jaboticabal",
-    "Cidade": "Fernando Prestes",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jaboticabal",
-    "Cidade": "Guariba",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jaboticabal",
-    "Cidade": "Jaboticabal",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jaboticabal",
-    "Cidade": "Monte Alto",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jaboticabal",
-    "Cidade": "Pirangi",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jaboticabal",
-    "Cidade": "Santa Ernestina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jaboticabal",
-    "Cidade": "Taiaçu",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jaboticabal",
-    "Cidade": "Taiuva",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jaboticabal",
-    "Cidade": "Taquaral",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jaboticabal",
-    "Cidade": "Taquaritinga",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jaboticabal",
-    "Cidade": "Terra Roxa",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jaboticabal",
-    "Cidade": "Vista Alegre do Alto",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Aparecida d'Oeste",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Aspásia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Dirce Reis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Dolcinópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Jales",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Marinópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Mesópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Nova Canaã Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Palmeira d'Oeste",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Paranapuã",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Pontalinda",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Populina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Rubinéia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Santa Albertina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Santa Clara d'Oeste",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Santa Fé do Sul",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Santa Rita d'Oeste",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Santa Salete",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Santana da Ponte Pensa",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "São Francisco",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Três Fronteiras",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Urânia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Jales",
-    "Cidade": "Vitória Brasil",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Jaú",
-    "Cidade": "Bariri",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Jaú",
-    "Cidade": "Barra Bonita",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Jaú",
-    "Cidade": "Bocaina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Jaú",
-    "Cidade": "Boracéia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Jaú",
-    "Cidade": "Igaraçu do Tietê",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Jaú",
-    "Cidade": "Itapuí",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Jaú",
-    "Cidade": "Jaú",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Jaú",
-    "Cidade": "Macatuba",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Jaú",
-    "Cidade": "Pederneiras",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Jundiaí",
-    "Cidade": "Campo Limpo Paulista",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Jundiaí",
-    "Cidade": "Itupeva",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Jundiaí",
-    "Cidade": "Jundiaí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Jundiaí",
-    "Cidade": "Louveira",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Jundiaí",
-    "Cidade": "Várzea Paulista",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Jundiaí",
-    "Cidade": "Cabreúva",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Limeira",
-    "Cidade": "Araras",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Limeira",
-    "Cidade": "Conchal",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Limeira",
-    "Cidade": "Cordeirópolis",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Limeira",
-    "Cidade": "Iracemápolis",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Limeira",
-    "Cidade": "Leme",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Limeira",
-    "Cidade": "Limeira",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Limeira",
-    "Cidade": "Santa Cruz da Conceição",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Limeira",
-    "Cidade": "Santa Gertrudes",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Lins",
-    "Cidade": "Pirajuí",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Lins",
-    "Cidade": "Pongaí",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Lins",
-    "Cidade": "Presidente Alves",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Lins",
-    "Cidade": "Reginópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Lins",
-    "Cidade": "Cafelândia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Lins",
-    "Cidade": "Getulina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Lins",
-    "Cidade": "Guaiçara",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Lins",
-    "Cidade": "Guaimbê",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Lins",
-    "Cidade": "Júlio Mesquita",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Lins",
-    "Cidade": "Lins",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Lins",
-    "Cidade": "Promissão",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Bauru",
-    "Praca": "Praça de Lins",
-    "Cidade": "Sabino",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Marília",
-    "Cidade": "Álvaro de Carvalho",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Marília",
-    "Cidade": "Alvinlândia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Marília",
-    "Cidade": "Echaporã",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Marília",
-    "Cidade": "Fernão",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Marília",
-    "Cidade": "Gália",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Marília",
-    "Cidade": "Garça",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Marília",
-    "Cidade": "Lupércio",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Marília",
-    "Cidade": "Marília",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Marília",
-    "Cidade": "Ocauçu",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Marília",
-    "Cidade": "Oriente",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Marília",
-    "Cidade": "Oscar Bressane",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Marília",
-    "Cidade": "Pompeia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Marília",
-    "Cidade": "Vera Cruz",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Mogi das Cruzes",
-    "Cidade": "Biritiba Mirim",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Mogi das Cruzes",
-    "Cidade": "Ferraz de Vasconcelos",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Mogi das Cruzes",
-    "Cidade": "Itaquaquecetuba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Mogi das Cruzes",
-    "Cidade": "Mogi das Cruzes",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Mogi das Cruzes",
-    "Cidade": "Poá",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Mogi das Cruzes",
-    "Cidade": "Salesópolis",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Mogi das Cruzes",
-    "Cidade": "Suzano",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Mogi-Mirim",
-    "Cidade": "Cosmópolis",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de mogi-Mirim",
-    "Cidade": "Holambra",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Mogi-Mirim",
-    "Cidade": "Artur Nogueira",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Mogi-Mirim",
-    "Cidade": "Engenheiro Coelho",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Mogi-Mirim",
-    "Cidade": "Estiva Gerbi",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Mogi-Mirim",
-    "Cidade": "Itapira",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Mogi-Mirim",
-    "Cidade": "Mogi Guaçu",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Mogi-Mirim",
-    "Cidade": "Mogi Mirim",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Mogi-Mirim",
-    "Cidade": "Santo Antônio de Posse",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Nhandeara",
-    "Cidade": "Macaubal",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Nhandeara",
-    "Cidade": "Monções",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Nhandeara",
-    "Cidade": "Monte Aprazível",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Nhandeara",
-    "Cidade": "Neves Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Nhandeara",
-    "Cidade": "Nhandeara",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Nhandeara",
-    "Cidade": "Nipoã",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Nhandeara",
-    "Cidade": "Poloni",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Nhandeara",
-    "Cidade": "Sebastianópolis do Sul",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Nhandeara",
-    "Cidade": "União Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Novo Horizonte",
-    "Cidade": "Irapuã",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Novo Horizonte",
-    "Cidade": "Itajobi",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Novo Horizonte",
-    "Cidade": "Marapoama",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Novo Horizonte",
-    "Cidade": "Novo Horizonte",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Novo Horizonte",
-    "Cidade": "Sales",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Novo Horizonte",
-    "Cidade": "Urupês",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Osasco",
-    "Cidade": "Barueri",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Osasco",
-    "Cidade": "Cajamar",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Osasco",
-    "Cidade": "Carapicuíba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Osasco",
-    "Cidade": "Itapevi",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Osasco",
-    "Cidade": "Jandira",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Osasco",
-    "Cidade": "Osasco",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Osasco",
-    "Cidade": "Pirapora do Bom Jesus",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de Osasco",
-    "Cidade": "Santana de Parnaíba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Ourinhos",
-    "Cidade": "Bernardino de Campos",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Ourinhos",
-    "Cidade": "Canitar",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Ourinhos",
-    "Cidade": "Chavantes",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Ourinhos",
-    "Cidade": "Espírito Santo do Turvo",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Ourinhos",
-    "Cidade": "Ipaussu",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Ourinhos",
-    "Cidade": "Manduri",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Ourinhos",
-    "Cidade": "Óleo",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Ourinhos",
-    "Cidade": "Ourinhos",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Ourinhos",
-    "Cidade": "Ribeirão do Sul",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Ourinhos",
-    "Cidade": "Salto Grande",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Ourinhos",
-    "Cidade": "Santa Cruz do Rio Pardo",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Ourinhos",
-    "Cidade": "São Pedro do Turvo",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Assis",
-    "Praca": "Praça de Ourinhos",
-    "Cidade": "Sarutaiá",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Paraibuna/Paraitinga",
-    "Cidade": "Cunha",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Paraibuna/Paraitinga",
-    "Cidade": "Jambeiro",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Paraibuna/Paraitinga",
-    "Cidade": "Lagoinha",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Paraibuna/Paraitinga",
-    "Cidade": "Natividade da Serra",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Paraibuna/Paraitinga",
-    "Cidade": "Paraibuna",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Paraibuna/Paraitinga",
-    "Cidade": "Redenção da Serra",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de Paraibuna/Paraitinga",
-    "Cidade": "São Luiz do Paraitinga",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Sorocaba",
-    "Praca": "Praça de Piedade",
-    "Cidade": "Ibiúna",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Sorocaba",
-    "Praca": "Praça de Piedade",
-    "Cidade": "Piedade",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Sorocaba",
-    "Praca": "Praça de Piedade",
-    "Cidade": "Pilar do Sul",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Sorocaba",
-    "Praca": "Praça de Piedade",
-    "Cidade": "Tapiraí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Piracicaba",
-    "Cidade": "Águas de São Pedro",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Piracicaba",
-    "Cidade": "Charqueada",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Piracicaba",
-    "Cidade": "Jumirim",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Piracicaba",
-    "Cidade": "Mombuca",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Piracicaba",
-    "Cidade": "Piracicaba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Piracicaba",
-    "Cidade": "Rio das Pedras",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Piracicaba",
-    "Cidade": "Saltinho",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Piracicaba",
-    "Cidade": "Santa Maria da Serra",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Piracicaba",
-    "Cidade": "São Pedro",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Pirassununga",
-    "Cidade": "Aguaí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Pirassununga",
-    "Cidade": "Pirassununga",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Pirassununga",
-    "Cidade": "Porto Ferreira",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de Pirassununga",
-    "Cidade": "Santa Cruz das Palmeiras",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Alfredo Marcondes",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Álvares Machado",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Anhumas",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Caiabu",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Caiuá",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Emilianópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Estrela do Norte",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Euclides da Cunha Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Indiana",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "João Ramalho",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Marabá Paulista",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Martinópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Mirante do Paranapanema",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Narandiba",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Piquerobi",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Pirapozinho",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Presidente Bernardes",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Presidente Epitácio",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Presidente Prudente",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Presidente Venceslau",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Rancharia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Regente Feijó",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Ribeirão dos Índios",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Rosana",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Sandovalina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Santo Anastácio",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Santo Expedito",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Taciba",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Tarabai",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Presidente Prudente",
-    "Praca": "Praça de Presidente Prudente",
-    "Cidade": "Teodoro Sampaio",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "Juquitiba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "São Lourenço da Serra",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "Barra do Turvo",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "Cajati",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "Cananéia",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "Eldorado",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "Iguape",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "Ilha Comprida",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "Jacupiranga",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "Juquiá",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "Miracatu",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "Pariquera-Açu",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "Registro",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Registro",
-    "Cidade": "Sete Barras",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Barrinha",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Brodowski",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Cravinhos",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Dumont",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Guatapará",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Jardinópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Luís Antônio",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Pontal",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Pradópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Ribeirão Preto",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Santa Rita do Passa-Quatro",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Santa Rosa de Viterbo",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "São Simão",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Serra Azul",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Serrana",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Ribeirão Preto",
-    "Cidade": "Sertãozinho",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Rio Claro",
-    "Cidade": "Corumbataí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Rio Claro",
-    "Cidade": "Ipeúna",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Piracicaba",
-    "Praca": "Praça de Rio Claro",
-    "Cidade": "Rio Claro",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Santos",
-    "Cidade": "Bertioga",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Santos",
-    "Cidade": "Cubatão",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Santos",
-    "Cidade": "Guarujá",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Santos",
-    "Cidade": "Praia Grande",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Santos",
-    "Cidade": "Santos",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Litoral Sul",
-    "Praca": "Praça de Santos",
-    "Cidade": "São Vicente",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de São Carlos",
-    "Cidade": "Itirapina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de São Carlos",
-    "Cidade": "Analândia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de São Carlos",
-    "Cidade": "Descalvado",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de São Carlos",
-    "Cidade": "Dourado",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de São Carlos",
-    "Cidade": "Ibaté",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de São Carlos",
-    "Cidade": "Ribeirão Bonito",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Araraquara",
-    "Praca": "Praça de São Carlos",
-    "Cidade": "São Carlos",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "Águas da Prata",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "Caconde",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "Casa Branca",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "Divinolândia",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "Espírito Santo do Pinhal",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "Itobi",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "Mococa",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "Santo Antônio do Jardim",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "São João da Boa Vista",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "São José do Rio Pardo",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "São Sebastião da Grama",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "Tambaú",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "Tapiratiba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Campinas",
-    "Praca": "Praça de São João da Boa Vista",
-    "Cidade": "Vargem Grande do Sul",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São Joaquim da Barra",
-    "Cidade": "Guaíra",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São Joaquim da Barra",
-    "Cidade": "Ipuã",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São Joaquim da Barra",
-    "Cidade": "Jaborandi",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São Joaquim da Barra",
-    "Cidade": "Miguelópolis",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São Joaquim da Barra",
-    "Cidade": "Morro Agudo",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São Joaquim da Barra",
-    "Cidade": "Nuporanga",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São Joaquim da Barra",
-    "Cidade": "Orlândia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São Joaquim da Barra",
-    "Cidade": "Sales Oliveira",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São Joaquim da Barra",
-    "Cidade": "São Joaquim da Barra",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São Joaquim da Barra",
-    "Cidade": "Região de São José do Rio Preto",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Sexta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Adolfo",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Altair",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Bady Bassitt",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Bálsamo",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Cedral",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Guapiaçu",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Guaraci",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Ibirá",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Icém",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Ipiguá",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Jaci",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "José Bonifácio",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Mendonça",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Mirassol",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Mirassolândia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Nova Aliança",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Nova Granada",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Olímpia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Onda Verde",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Orindiúva",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Palestina",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Paulo de Faria",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Planalto",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Potirendaba",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "São José do Rio Preto",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Tanabi",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Ubarana",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Uchoa",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de São José do Rio Preto",
-    "Cidade": "Zacarias",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de São José dos Campos",
-    "Cidade": "Guararema",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de São José dos Campos",
-    "Cidade": "Caçapava",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de São José dos Campos",
-    "Cidade": "Igaratá",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de São José dos Campos",
-    "Cidade": "Jacareí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de São José dos Campos",
-    "Cidade": "Pindamonhangaba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de São José dos Campos",
-    "Cidade": "Santa Branca",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de São José dos Campos",
-    "Cidade": "São José dos Campos",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de São José dos Campos",
-    "Cidade": "Taubaté",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Vale Do Paraíba",
-    "Praca": "Praça de São José dos Campos",
-    "Cidade": "Tremembé",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de São Paulo",
-    "Cidade": "Diadema",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de São Paulo",
-    "Cidade": "Mauá",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de São Paulo",
-    "Cidade": "Ribeirão Pires",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de São Paulo",
-    "Cidade": "Rio Grande da Serra",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de São Paulo",
-    "Cidade": "Santo André",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de São Paulo",
-    "Cidade": "São Bernardo do Campo",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de São Paulo",
-    "Cidade": "São Caetano do Sul",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Grande Spo",
-    "Praca": "Praça de São Paulo",
-    "Cidade": "São Paulo",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Quinta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Sorocaba",
-    "Praca": "Praça de São Roque",
-    "Cidade": "Alumínio",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Sorocaba",
-    "Praca": "Praça de São Roque",
-    "Cidade": "Araçariguama",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Sorocaba",
-    "Praca": "Praça de São Roque",
-    "Cidade": "Mairinque",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Sorocaba",
-    "Praca": "Praça de São Roque",
-    "Cidade": "São Roque",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Sorocaba",
-    "Praca": "Praça de Sorocaba",
-    "Cidade": "Araçoiaba da Serra",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Sorocaba",
-    "Praca": "Praça de Sorocaba",
-    "Cidade": "Sorocaba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Sorocaba",
-    "Praca": "Praça de Sorocaba",
-    "Cidade": "Votorantim",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Tatuí",
-    "Cidade": "Boituva",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Tatuí",
-    "Cidade": "Cesário Lange",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Tatuí",
-    "Cidade": "Laranjal Paulista",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Tatuí",
-    "Cidade": "Pereiras",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Tatuí",
-    "Cidade": "Porangaba",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Tatuí",
-    "Cidade": "Quadra",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Tatuí",
-    "Cidade": "Tatuí",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Tatuí",
-    "Cidade": "Torre de Pedra",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Tatuí",
-    "Cidade": "Capela do Alto",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Tatuí",
-    "Cidade": "Iperó",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Itapetinga",
-    "Praca": "Praça de Tatuí",
-    "Cidade": "Porto Feliz",
-    "Filial": "São Paulo",
-    "Data Carregamento": "Terca Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Tupã",
-    "Cidade": "Arco-Íris",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Tupã",
-    "Cidade": "Bastos",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Tupã",
-    "Cidade": "Herculândia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Tupã",
-    "Cidade": "Iacri",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Tupã",
-    "Cidade": "Queiroz",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Tupã",
-    "Cidade": "Quintana",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Marilia",
-    "Praca": "Praça de Tupã",
-    "Cidade": "Tupã",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Quarta Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Votuporanga",
-    "Cidade": "Álvares Florence",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Votuporanga",
-    "Cidade": "Américo de Campos",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Votuporanga",
-    "Cidade": "Cardoso",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Votuporanga",
-    "Cidade": "Cosmorama",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Votuporanga",
-    "Cidade": "Parisi",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Votuporanga",
-    "Cidade": "Pontes Gestal",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Votuporanga",
-    "Cidade": "Riolândia",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Votuporanga",
-    "Cidade": "Valentim Gentil",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
-  },
-  {
-    "Região": "Ribeirão Preto",
-    "Praca": "Praça de Votuporanga",
-    "Cidade": "Votuporanga",
-    "Filial": "Boracéia",
-    "Data Carregamento": "Segunda Feira",
-    "lat": -23.547695,
-    "lng": -46.625853
+    "municipio": "Adamantina",
+    "lat": -21.6853,
+    "lng": -51.0725
+  },
+  {
+    "municipio": "Adolfo",
+    "lat": -21.2336,
+    "lng": -49.6586
+  },
+  {
+    "municipio": "Aguaí",
+    "lat": -22.0578,
+    "lng": -46.9636
+  },
+  {
+    "municipio": "Águas da Prata",
+    "lat": -21.9392,
+    "lng": -46.7197
+  },
+  {
+    "municipio": "Águas de Lindóia",
+    "lat": -22.4706,
+    "lng": -46.6347
+  },
+  {
+    "municipio": "Águas de Santa Bárbara",
+    "lat": -23.0336,
+    "lng": -49.2086
+  },
+  {
+    "municipio": "Águas de São Pedro",
+    "lat": -22.5939,
+    "lng": -47.8733
+  },
+  {
+    "municipio": "Agudos",
+    "lat": -22.4697,
+    "lng": -48.9669
+  },
+  {
+    "municipio": "Alambari",
+    "lat": -23.6342,
+    "lng": -47.7892
+  },
+  {
+    "municipio": "Alfredo Marcondes",
+    "lat": -21.9961,
+    "lng": -51.3536
+  },
+  {
+    "municipio": "Altair",
+    "lat": -20.4044,
+    "lng": -49.1239
+  },
+  {
+    "municipio": "Altinópolis",
+    "lat": -20.8936,
+    "lng": -47.3689
+  },
+  {
+    "municipio": "Alto Alegre",
+    "lat": -21.5039,
+    "lng": -50.2972
+  },
+  {
+    "municipio": "Alumínio",
+    "lat": -23.5414,
+    "lng": -47.2575
+  },
+  {
+    "municipio": "Álvares Florence",
+    "lat": -20.2572,
+    "lng": -49.9997
+  },
+  {
+    "municipio": "Álvares Machado",
+    "lat": -22.0622,
+    "lng": -51.4878
+  },
+  {
+    "municipio": "Álvaro de Carvalho",
+    "lat": -22.2153,
+    "lng": -50.1456
+  },
+  {
+    "municipio": "Alvinlândia",
+    "lat": -22.4333,
+    "lng": -50.05
+  },
+  {
+    "municipio": "Americana",
+    "lat": -22.7447,
+    "lng": -47.3325
+  },
+  {
+    "municipio": "Américo Brasiliense",
+    "lat": -21.7222,
+    "lng": -48.2436
+  },
+  {
+    "municipio": "Américo de Campos",
+    "lat": -20.2447,
+    "lng": -49.7214
+  },
+  {
+    "municipio": "Amparo",
+    "lat": -22.7011,
+    "lng": -46.7669
+  },
+  {
+    "municipio": "Analândia",
+    "lat": -22.1286,
+    "lng": -47.6622
+  },
+  {
+    "municipio": "Andradina",
+    "lat": -20.8953,
+    "lng": -51.3858
+  },
+  {
+    "municipio": "Angatuba",
+    "lat": -23.4917,
+    "lng": -48.4358
+  },
+  {
+    "municipio": "Anhembi",
+    "lat": -22.7936,
+    "lng": -48.1633
+  },
+  {
+    "municipio": "Anhumas",
+    "lat": -22.2597,
+    "lng": -51.2725
+  },
+  {
+    "municipio": "Aparecida",
+    "lat": -22.8464,
+    "lng": -45.2289
+  },
+  {
+    "municipio": "Aparecida d'Oeste",
+    "lat": -20.4578,
+    "lng": -50.8408
+  },
+  {
+    "municipio": "Apiaí",
+    "lat": -24.5003,
+    "lng": -48.8353
+  },
+  {
+    "municipio": "Araçariguama",
+    "lat": -23.4356,
+    "lng": -47.0731
+  },
+  {
+    "municipio": "Araçatuba",
+    "lat": -21.205,
+    "lng": -50.4358
+  },
+  {
+    "municipio": "Araçoiaba da Serra",
+    "lat": -23.5042,
+    "lng": -47.625
+  },
+  {
+    "municipio": "Aramina",
+    "lat": -20.0881,
+    "lng": -47.7817
+  },
+  {
+    "municipio": "Arandu",
+    "lat": -23.1539,
+    "lng": -49.0344
+  },
+  {
+    "municipio": "Arapei",
+    "lat": -22.6106,
+    "lng": -44.5911
+  },
+  {
+    "municipio": "Araraquara",
+    "lat": -21.7944,
+    "lng": -48.1758
+  },
+  {
+    "municipio": "Araras",
+    "lat": -22.3528,
+    "lng": -47.3828
+  },
+  {
+    "municipio": "Arco-Íris",
+    "lat": -22.1583,
+    "lng": -50.4194
+  },
+  {
+    "municipio": "Arealva",
+    "lat": -22.0169,
+    "lng": -48.9714
+  },
+  {
+    "municipio": "Areias",
+    "lat": -22.6078,
+    "lng": -44.7578
+  },
+  {
+    "municipio": "Areiópolis",
+    "lat": -22.6583,
+    "lng": -48.6533
+  },
+  {
+    "municipio": "Ariranha",
+    "lat": -20.9708,
+    "lng": -48.7844
+  },
+  {
+    "municipio": "Artur Nogueira",
+    "lat": -22.5708,
+    "lng": -47.1706
+  },
+  {
+    "municipio": "Arujá",
+    "lat": -23.3989,
+    "lng": -46.3211
+  },
+  {
+    "municipio": "Aspásia",
+    "lat": -20.3703,
+    "lng": -50.9322
+  },
+  {
+    "municipio": "Assis",
+    "lat": -22.6611,
+    "lng": -50.4139
+  },
+  {
+    "municipio": "Atibaia",
+    "lat": -23.1167,
+    "lng": -46.5519
+  },
+  {
+    "municipio": "Auriflama",
+    "lat": -20.6975,
+    "lng": -50.575
+  },
+  {
+    "municipio": "Avaí",
+    "lat": -22.1481,
+    "lng": -49.3364
+  },
+  {
+    "municipio": "Avanhandava",
+    "lat": -21.4922,
+    "lng": -49.9572
+  },
+  {
+    "municipio": "Avaré",
+    "lat": -23.1075,
+    "lng": -48.9278
+  },
+  {
+    "municipio": "Bady Bassitt",
+    "lat": -20.9231,
+    "lng": -49.4678
+  },
+  {
+    "municipio": "Balbinos",
+    "lat": -21.8497,
+    "lng": -49.4356
+  },
+  {
+    "municipio": "Bálsamo",
+    "lat": -20.7817,
+    "lng": -49.5786
+  },
+  {
+    "municipio": "Bananal",
+    "lat": -22.6858,
+    "lng": -44.3217
+  },
+  {
+    "municipio": "Barão de Antonina",
+    "lat": -23.6339,
+    "lng": -49.5828
+  },
+  {
+    "municipio": "Barbosa",
+    "lat": -21.2828,
+    "lng": -50.3169
+  },
+  {
+    "municipio": "Bariri",
+    "lat": -22.0722,
+    "lng": -48.7497
+  },
+  {
+    "municipio": "Barra Bonita",
+    "lat": -22.4933,
+    "lng": -48.5636
+  },
+  {
+    "municipio": "Barra do Chapéu",
+    "lat": -24.4756,
+    "lng": -49.0069
+  },
+  {
+    "municipio": "Barra do Turvo",
+    "lat": -24.7833,
+    "lng": -48.4528
+  },
+  {
+    "municipio": "Barretos",
+    "lat": -20.5583,
+    "lng": -47.9358
+  },
+  {
+    "municipio": "Barrinha",
+    "lat": -21.3789,
+    "lng": -48.1636
+  },
+  {
+    "municipio": "Barueri",
+    "lat": -23.5061,
+    "lng": -46.8778
+  },
+  {
+    "municipio": "Bastos",
+    "lat": -21.9481,
+    "lng": -50.7303
+  },
+  {
+    "municipio": "Batatais",
+    "lat": -20.8872,
+    "lng": -47.5878
+  },
+  {
+    "municipio": "Bauru",
+    "lat": -22.3217,
+    "lng": -49.0706
+  },
+  {
+    "municipio": "Bebedouro",
+    "lat": -20.9419,
+    "lng": -48.4764
+  },
+  {
+    "municipio": "Bento de Abreu",
+    "lat": -21.4397,
+    "lng": -50.7314
+  },
+  {
+    "municipio": "Bernardino de Campos",
+    "lat": -23.0039,
+    "lng": -49.4678
+  },
+  {
+    "municipio": "Bertioga",
+    "lat": -23.8436,
+    "lng": -46.1308
+  },
+  {
+    "municipio": "Bilac",
+    "lat": -21.4111,
+    "lng": -50.3997
+  },
+  {
+    "municipio": "Birigui",
+    "lat": -21.2058,
+    "lng": -50.3444
+  },
+  {
+    "municipio": "Biritiba Mirim",
+    "lat": -23.5786,
+    "lng": -46.0461
+  },
+  {
+    "municipio": "Boa Esperança do Sul",
+    "lat": -21.9458,
+    "lng": -48.4417
+  },
+  {
+    "municipio": "Bocaina",
+    "lat": -22.4339,
+    "lng": -48.5447
+  },
+  {
+    "municipio": "Bofete",
+    "lat": -23.1119,
+    "lng": -48.2436
+  },
+  {
+    "municipio": "Boituva",
+    "lat": -23.3761,
+    "lng": -47.6744
+  },
+  {
+    "municipio": "Bom Jesus dos Perdões",
+    "lat": -23.1097,
+    "lng": -46.4678
+  },
+  {
+    "municipio": "Bom Sucesso de Itararé",
+    "lat": -23.9517,
+    "lng": -49.2319
+  },
+  {
+    "municipio": "Borá",
+    "lat": -22.3781,
+    "lng": -50.5367
+  },
+  {
+    "municipio": "Boracéia",
+    "lat": -22.2594,
+    "lng": -48.8681
+  },
+  {
+    "municipio": "Borborema",
+    "lat": -21.6022,
+    "lng": -49.0769
+  },
+  {
+    "municipio": "Borebi",
+    "lat": -22.5028,
+    "lng": -48.9744
+  },
+  {
+    "municipio": "Botucatu",
+    "lat": -22.8833,
+    "lng": -48.4461
+  },
+  {
+    "municipio": "Bragança Paulista",
+    "lat": -22.9519,
+    "lng": -46.5411
+  },
+  {
+    "municipio": "Braúna",
+    "lat": -21.5794,
+    "lng": -50.4192
+  },
+  {
+    "municipio": "Brejo Alegre",
+    "lat": -21.3283,
+    "lng": -50.1581
+  },
+  {
+    "municipio": "Brodowski",
+    "lat": -20.9325,
+    "lng": -47.6592
+  },
+  {
+    "municipio": "Brotas",
+    "lat": -22.2858,
+    "lng": -48.1633
+  },
+  {
+    "municipio": "Buri",
+    "lat": -23.7917,
+    "lng": -48.5728
+  },
+  {
+    "municipio": "Buritama",
+    "lat": -21.0592,
+    "lng": -50.1603
+  },
+  {
+    "municipio": "Buritizal",
+    "lat": -20.2817,
+    "lng": -47.7478
+  },
+  {
+    "municipio": "Cabrália Paulista",
+    "lat": -22.4239,
+    "lng": -49.3361
+  },
+  {
+    "municipio": "Cabreuva",
+    "lat": -23.3083,
+    "lng": -47.1694
+  },
+  {
+    "municipio": "Caçapava",
+    "lat": -23.1097,
+    "lng": -45.4389
+  },
+  {
+    "municipio": "Cachoeira Paulista",
+    "lat": -22.6506,
+    "lng": -45.0217
+  },
+  {
+    "municipio": "Caconde",
+    "lat": -21.5281,
+    "lng": -46.6433
+  },
+  {
+    "municipio": "Cafelândia",
+    "lat": -21.8028,
+    "lng": -49.9322
+  },
+  {
+    "municipio": "Caiabu",
+    "lat": -22.0169,
+    "lng": -50.9997
+  },
+  {
+    "municipio": "Caieiras",
+    "lat": -23.3644,
+    "lng": -46.7456
+  },
+  {
+    "municipio": "Caiuá",
+    "lat": -21.9056,
+    "lng": -51.8797
+  },
+  {
+    "municipio": "Cajamar",
+    "lat": -23.3514,
+    "lng": -46.8778
+  },
+  {
+    "municipio": "Cajati",
+    "lat": -24.7678,
+    "lng": -48.1189
+  },
+  {
+    "municipio": "Cajobi",
+    "lat": -20.8958,
+    "lng": -48.8153
+  },
+  {
+    "municipio": "Cajuru",
+    "lat": -21.2828,
+    "lng": -47.3014
+  },
+  {
+    "municipio": "Campina do Monte Alegre",
+    "lat": -23.6739,
+    "lng": -48.4636
+  },
+  {
+    "municipio": "Campinas",
+    "lat": -22.9056,
+    "lng": -47.0608
+  },
+  {
+    "municipio": "Campo Limpo Paulista",
+    "lat": -23.2125,
+    "lng": -46.8042
+  },
+  {
+    "municipio": "Campos do Jordão",
+    "lat": -22.7383,
+    "lng": -45.5897
+  },
+  {
+    "municipio": "Campos Novos Paulista",
+    "lat": -22.8469,
+    "lng": -50.05
+  },
+  {
+    "municipio": "Cananéia",
+    "lat": -25.0083,
+    "lng": -47.925
+  },
+  {
+    "municipio": "Canas",
+    "lat": -22.7214,
+    "lng": -45.0681
+  },
+  {
+    "municipio": "Cândido Mota",
+    "lat": -22.7369,
+    "lng": -50.3958
+  },
+  {
+    "municipio": "Cândido Rodrigues",
+    "lat": -21.3139,
+    "lng": -48.6011
+  },
+  {
+    "municipio": "Canitar",
+    "lat": -23.0039,
+    "lng": -49.6586
+  },
+  {
+    "municipio": "Capão Bonito",
+    "lat": -24.0042,
+    "lng": -48.3497
+  },
+  {
+    "municipio": "Capela do Alto",
+    "lat": -23.5186,
+    "lng": -47.7817
+  },
+  {
+    "municipio": "Capivari",
+    "lat": -23.0089,
+    "lng": -47.6047
+  },
+  {
+    "municipio": "Caraguatatuba",
+    "lat": -23.6264,
+    "lng": -45.4147
+  },
+  {
+    "municipio": "Carapicuíba",
+    "lat": -23.5228,
+    "lng": -46.8375
+  },
+  {
+    "municipio": "Cardoso",
+    "lat": -20.0883,
+    "lng": -49.9197
+  },
+  {
+    "municipio": "Casa Branca",
+    "lat": -21.7806,
+    "lng": -47.0989
+  },
+  {
+    "municipio": "Cássia dos Coqueiros",
+    "lat": -21.1892,
+    "lng": -47.2869
+  },
+  {
+    "municipio": "Castilho",
+    "lat": -20.8653,
+    "lng": -51.4889
+  },
+  {
+    "municipio": "Catanduva",
+    "lat": -21.1403,
+    "lng": -48.9772
+  },
+  {
+    "municipio": "Catiguá",
+    "lat": -20.9856,
+    "lng": -49.0558
+  },
+  {
+    "municipio": "Cedral",
+    "lat": -20.9997,
+    "lng": -49.2789
+  },
+  {
+    "municipio": "Cerqueira César",
+    "lat": -23.2125,
+    "lng": -49.1558
+  },
+  {
+    "municipio": "Cerquilho",
+    "lat": -23.2208,
+    "lng": -47.7478
+  },
+  {
+    "municipio": "Cesário Lange",
+    "lat": -23.2725,
+    "lng": -47.9625
+  },
+  {
+    "municipio": "Charqueada",
+    "lat": -22.4697,
+    "lng": -47.7056
+  },
+  {
+    "municipio": "Chavantes",
+    "lat": -23.0319,
+    "lng": -49.7153
+  },
+  {
+    "municipio": "Clementina",
+    "lat": -21.6033,
+    "lng": -50.6092
+  },
+  {
+    "municipio": "Colina",
+    "lat": -20.7183,
+    "lng": -48.5447
+  },
+  {
+    "municipio": "Colômbia",
+    "lat": -20.2528,
+    "lng": -48.6533
+  },
+  {
+    "municipio": "Conchal",
+    "lat": -22.3167,
+    "lng": -47.1997
+  },
+  {
+    "municipio": "Conchas",
+    "lat": -23.0183,
+    "lng": -48.0667
+  },
+  {
+    "municipio": "Cordeirópolis",
+    "lat": -22.4842,
+    "lng": -47.4589
+  },
+  {
+    "municipio": "Coroados",
+    "lat": -21.3283,
+    "lng": -50.4667
+  },
+  {
+    "municipio": "Coronel Macedo",
+    "lat": -23.5131,
+    "lng": -49.2639
+  },
+  {
+    "municipio": "Corumbataí",
+    "lat": -22.2575,
+    "lng": -47.6047
+  },
+  {
+    "municipio": "Cosmópolis",
+    "lat": -22.6506,
+    "lng": -47.1953
+  },
+  {
+    "municipio": "Cosmorama",
+    "lat": -20.3703,
+    "lng": -49.7717
+  },
+  {
+    "municipio": "Cotia",
+    "lat": -23.6067,
+    "lng": -46.9153
+  },
+  {
+    "municipio": "Cravinhos",
+    "lat": -21.3533,
+    "lng": -47.7275
+  },
+  {
+    "municipio": "Cristais Paulista",
+    "lat": -20.5067,
+    "lng": -47.4958
+  },
+  {
+    "municipio": "Cruzália",
+    "lat": -22.7667,
+    "lng": -50.6861
+  },
+  {
+    "municipio": "Cruzeiro",
+    "lat": -22.5806,
+    "lng": -44.9572
+  },
+  {
+    "municipio": "Cubatão",
+    "lat": -23.9058,
+    "lng": -46.4258
+  },
+  {
+    "municipio": "Cunha",
+    "lat": -23.1119,
+    "lng": -45.1614
+  },
+  {
+    "municipio": "Descalvado",
+    "lat": -21.9056,
+    "lng": -47.6167
+  },
+  {
+    "municipio": "Diadema",
+    "lat": -23.6844,
+    "lng": -46.6194
+  },
+  {
+    "municipio": "Dirce Reis",
+    "lat": -20.3014,
+    "lng": -50.8408
+  },
+  {
+    "municipio": "Divinolândia",
+    "lat": -21.4397,
+    "lng": -46.7797
+  },
+  {
+    "municipio": "Dobrada",
+    "lat": -21.4111,
+    "lng": -48.4764
+  },
+  {
+    "municipio": "Dois Córregos",
+    "lat": -22.3781,
+    "lng": -48.3972
+  },
+  {
+    "municipio": "Dolcinópolis",
+    "lat": -20.1989,
+    "lng": -50.4194
+  },
+  {
+    "municipio": "Dourado",
+    "lat": -22.0622,
+    "lng": -48.2725
+  },
+  {
+    "municipio": "Dracena",
+    "lat": -21.4647,
+    "lng": -51.5206
+  },
+  {
+    "municipio": "Duartina",
+    "lat": -22.3781,
+    "lng": -49.3361
+  },
+  {
+    "municipio": "Dumont",
+    "lat": -21.2181,
+    "lng": -47.9625
+  },
+  {
+    "municipio": "Echaporã",
+    "lat": -22.3781,
+    "lng": -50.1456
+  },
+  {
+    "municipio": "Eldorado",
+    "lat": -24.5167,
+    "lng": -48.4358
+  },
+  {
+    "municipio": "Elisiário",
+    "lat": -21.1403,
+    "lng": -48.8872
+  },
+  {
+    "municipio": "Embaúba",
+    "lat": -20.9139,
+    "lng": -49.0769
+  },
+  {
+    "municipio": "Embu das Artes",
+    "lat": -23.6492,
+    "lng": -46.8525
+  },
+  {
+    "municipio": "Embu-Guaçu",
+    "lat": -23.8208,
+    "lng": -46.7456
+  },
+  {
+    "municipio": "Emilianópolis",
+    "lat": -22.0833,
+    "lng": -51.4889
+  },
+  {
+    "municipio": "Engenheiro Coelho",
+    "lat": -22.4706,
+    "lng": -47.0194
+  },
+  {
+    "municipio": "Espírito Santo do Pinhal",
+    "lat": -22.1936,
+    "lng": -46.7328
+  },
+  {
+    "municipio": "Espírito Santo do Turvo",
+    "lat": -22.5028,
+    "lng": -49.8869
+  },
+  {
+    "municipio": "Estiva Gerbi",
+    "lat": -22.2858,
+    "lng": -46.9458
+  },
+  {
+    "municipio": "Estrela d'Oeste",
+    "lat": -20.2528,
+    "lng": -50.575
+  },
+  {
+    "municipio": "Estrela do Norte",
+    "lat": -21.8028,
+    "lng": -51.6428
+  },
+  {
+    "municipio": "Euclides da Cunha Paulista",
+    "lat": -22.4706,
+    "lng": -52.4833
+  },
+  {
+    "municipio": "Fartura",
+    "lat": -23.9056,
+    "lng": -49.2086
+  },
+  {
+    "municipio": "Fernandópolis",
+    "lat": -20.2825,
+    "lng": -50.2447
+  },
+  {
+    "municipio": "Ferraz de Vasconcelos",
+    "lat": -23.5414,
+    "lng": -46.3667
+  },
+  {
+    "municipio": "Fernando Prestes",
+    "lat": -21.2336,
+    "lng": -48.5131
+  },
+  {
+    "municipio": "Ferreira Gomes",
+    "lat": -20.9419,
+    "lng": -47.4589
+  },
+  {
+    "municipio": "Flora Rica",
+    "lat": -21.6667,
+    "lng": -51.3536
+  },
+  {
+    "municipio": "Floreal",
+    "lat": -20.6278,
+    "lng": -49.9739
+  },
+  {
+    "municipio": "Flórida Paulista",
+    "lat": -21.6853,
+    "lng": -51.4083
+  },
+  {
+    "municipio": "Florínea",
+    "lat": -22.6289,
+    "lng": -50.6092
+  },
+  {
+    "municipio": "Franca",
+    "lat": -20.5383,
+    "lng": -47.4008
+  },
+  {
+    "municipio": "Francisco Morato",
+    "lat": -23.2842,
+    "lng": -46.7456
+  },
+  {
+    "municipio": "Franco da Rocha",
+    "lat": -23.3283,
+    "lng": -46.7456
+  },
+  {
+    "municipio": "Gabriel Monteiro",
+    "lat": -21.4922,
+    "lng": -50.9322
+  },
+  {
+    "municipio": "Gália",
+    "lat": -22.3167,
+    "lng": -50.0769
+  },
+  {
+    "municipio": "Garça",
+    "lat": -22.2047,
+    "lng": -49.6586
+  },
+  {
+    "municipio": "Gastão Vidigal",
+    "lat": -20.7303,
+    "lng": -50.1875
+  },
+  {
+    "municipio": "Gavião Peixoto",
+    "lat": -21.8903,
+    "lng": -48.4417
+  },
+  {
+    "municipio": "General Salgado",
+    "lat": -20.6542,
+    "lng": -50.4194
+  },
+  {
+    "municipio": "Getulina",
+    "lat": -21.8903,
+    "lng": -50.05
+  },
+  {
+    "municipio": "Glicério",
+    "lat": -21.3789,
+    "lng": -50.2289
+  },
+  {
+    "municipio": "Guaiçara",
+    "lat": -21.8497,
+    "lng": -49.6586
+  },
+  {
+    "municipio": "Guaimbê",
+    "lat": -21.9056,
+    "lng": -49.8869
+  },
+  {
+    "municipio": "Guaíra",
+    "lat": -20.3347,
+    "lng": -48.3183
+  },
+  {
+    "municipio": "Guapiaçu",
+    "lat": -20.7575,
+    "lng": -49.2086
+  },
+  {
+    "municipio": "Guapiara",
+    "lat": -24.1847,
+    "lng": -48.5131
+  },
+  {
+    "municipio": "Guarani d'Oeste",
+    "lat": -20.2528,
+    "lng": -50.7056
+  },
+  {
+    "municipio": "Guarantã",
+    "lat": -22.0597,
+    "lng": -49.7717
+  },
+  {
+    "municipio": "Guararapes",
+    "lat": -21.2267,
+    "lng": -50.6361
+  },
+  {
+    "municipio": "Guararema",
+    "lat": -23.4111,
+    "lng": -46.1667
+  },
+  {
+    "municipio": "Guaratinguetá",
+    "lat": -22.8139,
+    "lng": -45.2028
+  },
+  {
+    "municipio": "Guareí",
+    "lat": -23.4478,
+    "lng": -48.1633
+  },
+  {
+    "municipio": "Guariba",
+    "lat": -21.3683,
+    "lng": -48.2325
+  },
+  {
+    "municipio": "Guarujá",
+    "lat": -23.9983,
+    "lng": -46.2561
+  },
+  {
+    "municipio": "Guarulhos",
+    "lat": -23.465,
+    "lng": -46.5333
+  },
+  {
+    "municipio": "Guatapará",
+    "lat": -21.4397,
+    "lng": -47.9625
+  },
+  {
+    "municipio": "Guzolândia",
+    "lat": -20.4853,
+    "lng": -50.7533
+  },
+  {
+    "municipio": "Herculândia",
+    "lat": -22.0169,
+    "lng": -50.4842
+  },
+  {
+    "municipio": "Holambra",
+    "lat": -22.6419,
+    "lng": -47.0547
+  },
+  {
+    "municipio": "Hortolândia",
+    "lat": -22.8553,
+    "lng": -47.2289
+  },
+  {
+    "municipio": "Iacanga",
+    "lat": -21.8789,
+    "lng": -49.0344
+  },
+  {
+    "municipio": "Iacri",
+    "lat": -21.8542,
+    "lng": -50.7303
+  },
+  {
+    "municipio": "Iaras",
+    "lat": -23.0858,
+    "lng": -49.0344
+  },
+  {
+    "municipio": "Ibaté",
+    "lat": -21.9547,
+    "lng": -47.9861
+  },
+  {
+    "municipio": "Ibirá",
+    "lat": -20.9708,
+    "lng": -49.2789
+  },
+  {
+    "municipio": "Ibirarema",
+    "lat": -22.7533,
+    "lng": -50.2972
+  },
+  {
+    "municipio": "Ibitinga",
+    "lat": -21.7533,
+    "lng": -48.8258
+  },
+  {
+    "municipio": "Ibiúna",
+    "lat": -23.5861,
+    "lng": -47.2289
+  },
+  {
+    "municipio": "Icém",
+    "lat": -20.0883,
+    "lng": -49.2086
+  },
+  {
+    "municipio": "Iepê",
+    "lat": -22.4286,
+    "lng": -51.0725
+  },
+  {
+    "municipio": "Igaraçu do Tietê",
+    "lat": -22.4933,
+    "lng": -48.5447
+  },
+  {
+    "municipio": "Igarapava",
+    "lat": -20.0389,
+    "lng": -47.7478
+  },
+  {
+    "municipio": "Igaratá",
+    "lat": -23.2389,
+    "lng": -46.1667
+  },
+  {
+    "municipio": "Iguape",
+    "lat": -24.7083,
+    "lng": -47.55
+  },
+  {
+    "municipio": "Ilha Comprida",
+    "lat": -25.0439,
+    "lng": -47.9153
+  },
+  {
+    "municipio": "Ilha Solteira",
+    "lat": -20.4286,
+    "lng": -51.3497
+  },
+  {
+    "municipio": "Ilhabela",
+    "lat": -23.7783,
+    "lng": -45.3583
+  },
+  {
+    "municipio": "Indaiatuba",
+    "lat": -23.0903,
+    "lng": -47.2186
+  },
+  {
+    "municipio": "Indiana",
+    "lat": -22.1806,
+    "lng": -51.2725
+  },
+  {
+    "municipio": "Indiaporã",
+    "lat": -19.9889,
+    "lng": -50.3169
+  },
+  {
+    "municipio": "Inúbia Paulista",
+    "lat": -21.8028,
+    "lng": -51.1897
+  },
+  {
+    "municipio": "Ipauçu",
+    "lat": -23.0319,
+    "lng": -49.7917
+  },
+  {
+    "municipio": "Iperó",
+    "lat": -23.3989,
+    "lng": -47.6975
+  },
+  {
+    "municipio": "Ipeúna",
+    "lat": -22.4339,
+    "lng": -47.6047
+  },
+  {
+    "municipio": "Ipiguá",
+    "lat": -20.6789,
+    "lng": -49.3361
+  },
+  {
+    "municipio": "Iporanga",
+    "lat": -24.5833,
+    "lng": -48.5833
+  },
+  {
+    "municipio": "Ipuã",
+    "lat": -20.3547,
+    "lng": -48.0667
+  },
+  {
+    "municipio": "Iracemápolis",
+    "lat": -22.5806,
+    "lng": -47.5458
+  },
+  {
+    "municipio": "Irapuã",
+    "lat": -21.2181,
+    "lng": -49.8869
+  },
+  {
+    "municipio": "Irapuru",
+    "lat": -21.5794,
+    "lng": -51.5206
+  },
+  {
+    "municipio": "Itaberá",
+    "lat": -23.8633,
+    "lng": -49.0769
+  },
+  {
+    "municipio": "Itaí",
+    "lat": -23.4072,
+    "lng": -49.0681
+  },
+  {
+    "municipio": "Itajobi",
+    "lat": -21.0858,
+    "lng": -48.7844
+  },
+  {
+    "municipio": "Itaju",
+    "lat": -22.2597,
+    "lng": -48.7844
+  },
+  {
+    "municipio": "Itanhaém",
+    "lat": -24.1806,
+    "lng": -46.7903
+  },
+  {
+    "municipio": "Itapira",
+    "lat": -22.4339,
+    "lng": -46.8292
+  },
+  {
+    "municipio": "Itapirapuã Paulista",
+    "lat": -24.4667,
+    "lng": -49.0769
+  },
+  {
+    "municipio": "Itápolis",
+    "lat": -21.5833,
+    "lng": -48.8078
+  },
+  {
+    "municipio": "Itaporanga",
+    "lat": -23.7028,
+    "lng": -49.4678
+  },
+  {
+    "municipio": "Itapuí",
+    "lat": -22.3167,
+    "lng": -48.8872
+  },
+  {
+    "municipio": "Itararé",
+    "lat": -24.1139,
+    "lng": -49.3361
+  },
+  {
+    "municipio": "Itariri",
+    "lat": -24.1614,
+    "lng": -47.1667
+  },
+  {
+    "municipio": "Itatiba",
+    "lat": -23.0039,
+    "lng": -46.8375
+  },
+  {
+    "municipio": "Itatinga",
+    "lat": -23.0619,
+    "lng": -48.6533
+  },
+  {
+    "municipio": "Itirapina",
+    "lat": -22.2597,
+    "lng": -47.8733
+  },
+  {
+    "municipio": "Itirapuã",
+    "lat": -20.5794,
+    "lng": -47.2869
+  },
+  {
+    "municipio": "Itobi",
+    "lat": -21.7533,
+    "lng": -46.9458
+  },
+  {
+    "municipio": "Itu",
+    "lat": -23.2667,
+    "lng": -47.2997
+  },
+  {
+    "municipio": "Itupeva",
+    "lat": -23.1539,
+    "lng": -47.0583
+  },
+  {
+    "municipio": "Ituverava",
+    "lat": -20.3547,
+    "lng": -47.7478
+  },
+  {
+    "municipio": "Jaborandi",
+    "lat": -20.6278,
+    "lng": -48.3781
+  },
+  {
+    "municipio": "Jaboticabal",
+    "lat": -21.2828,
+    "lng": -48.3225
+  },
+  {
+    "municipio": "Jacareí",
+    "lat": -23.3083,
+    "lng": -45.9611
+  },
+  {
+    "municipio": "Jaci",
+    "lat": -20.6542,
+    "lng": -49.4678
+  },
+  {
+    "municipio": "Jacupiranga",
+    "lat": -24.7083,
+    "lng": -47.9625
+  },
+  {
+    "municipio": "Jaguariúna",
+    "lat": -22.6972,
+    "lng": -46.9939
+  },
+  {
+    "municipio": "Jales",
+    "lat": -20.2708,
+    "lng": -50.5486
+  },
+  {
+    "municipio": "Jambeiro",
+    "lat": -23.2667,
+    "lng": -45.7486
+  },
+  {
+    "municipio": "Jandira",
+    "lat": -23.5228,
+    "lng": -46.8925
+  },
+  {
+    "municipio": "Jardinópolis",
+    "lat": -20.9231,
+    "lng": -47.7608
+  },
+  {
+    "municipio": "Jarinu",
+    "lat": -23.1119,
+    "lng": -46.7056
+  },
+  {
+    "municipio": "Jaú",
+    "lat": -22.2858,
+    "lng": -48.5636
+  },
+  {
+    "municipio": "Jeriquara",
+    "lat": -20.3703,
+    "lng": -47.5028
+  },
+  {
+    "municipio": "Joanópolis",
+    "lat": -22.9519,
+    "lng": -46.2217
+  },
+  {
+    "municipio": "João Ramalho",
+    "lat": -22.4286,
+    "lng": -50.7958
+  },
+  {
+    "municipio": "José Bonifácio",
+    "lat": -21.0719,
+    "lng": -49.6847
+  },
+  {
+    "municipio": "Júlio Mesquita",
+    "lat": -22.0622,
+    "lng": -49.9739
+  },
+  {
+    "municipio": "Jumirim",
+    "lat": -23.2389,
+    "lng": -47.8869
+  },
+  {
+    "municipio": "Jundiaí",
+    "lat": -23.1892,
+    "lng": -46.8844
+  },
+  {
+    "municipio": "Junqueirópolis",
+    "lat": -21.6033,
+    "lng": -51.6861
+  },
+  {
+    "municipio": "Juquiá",
+    "lat": -24.3142,
+    "lng": -47.625
+  },
+  {
+    "municipio": "Juquitiba",
+    "lat": -23.9056,
+    "lng": -47.0194
+  },
+  {
+    "municipio": "Lagoinha",
+    "lat": -23.0039,
+    "lng": -45.1458
+  },
+  {
+    "municipio": "Laranjal Paulista",
+    "lat": -23.0444,
+    "lng": -47.8344
+  },
+  {
+    "municipio": "Lavínia",
+    "lat": -21.1403,
+    "lng": -51.0556
+  },
+  {
+    "municipio": "Lavrinhas",
+    "lat": -22.5806,
+    "lng": -44.8889
+  },
+  {
+    "municipio": "Leme",
+    "lat": -22.1806,
+    "lng": -47.3828
+  },
+  {
+    "municipio": "Lençóis Paulista",
+    "lat": -22.5806,
+    "lng": -48.7917
+  },
+  {
+    "municipio": "Limeira",
+    "lat": -22.5639,
+    "lng": -47.4008
+  },
+  {
+    "municipio": "Lindóia",
+    "lat": -22.5028,
+    "lng": -46.6194
+  },
+  {
+    "municipio": "Lins",
+    "lat": -21.6667,
+    "lng": -50.1456
+  },
+  {
+    "municipio": "Lorena",
+    "lat": -22.7214,
+    "lng": -45.1228
+  },
+  {
+    "municipio": "Lourdes",
+    "lat": -20.7303,
+    "lng": -50.2972
+  },
+  {
+    "municipio": "Louveira",
+    "lat": -23.0858,
+    "lng": -46.9536
+  },
+  {
+    "municipio": "Lucélia",
+    "lat": -21.7347,
+    "lng": -51.0069
+  },
+  {
+    "municipio": "Lucianópolis",
+    "lat": -22.3781,
+    "lng": -49.7717
+  },
+  {
+    "municipio": "Luís Antônio",
+    "lat": -21.5794,
+    "lng": -47.7817
+  },
+  {
+    "municipio": "Luiziânia",
+    "lat": -21.3789,
+    "lng": -50.7533
+  },
+  {
+    "municipio": "Lupércio",
+    "lat": -22.4286,
+    "lng": -49.8869
+  },
+  {
+    "municipio": "Lutécia",
+    "lat": -22.4706,
+    "lng": -50.4139
+  },
+  {
+    "municipio": "Macatuba",
+    "lat": -22.5028,
+    "lng": -48.7497
+  },
+  {
+    "municipio": "Macaubal",
+    "lat": -20.7575,
+    "lng": -49.9739
+  },
+  {
+    "municipio": "Macedônia",
+    "lat": -20.1569,
+    "lng": -50.05
+  },
+  {
+    "municipio": "Magda",
+    "lat": -20.5794,
+    "lng": -50.0769
+  },
+  {
+    "municipio": "Mairinque",
+    "lat": -23.5414,
+    "lng": -47.1667
+  },
+  {
+    "municipio": "Mairiporã",
+    "lat": -23.3283,
+    "lng": -46.5861
+  },
+  {
+    "municipio": "Manduri",
+    "lat": -23.0183,
+    "lng": -49.3781
+  },
+  {
+    "municipio": "Marabá Paulista",
+    "lat": -22.0622,
+    "lng": -52.0717
+  },
+  {
+    "municipio": "Maracaí",
+    "lat": -22.6078,
+    "lng": -50.6861
+  },
+  {
+    "municipio": "Marapoama",
+    "lat": -20.9419,
+    "lng": -49.0769
+  },
+  {
+    "municipio": "Mariápolis",
+    "lat": -21.7533,
+    "lng": -51.1039
+  },
+  {
+    "municipio": "Marília",
+    "lat": -22.2153,
+    "lng": -49.9322
+  },
+  {
+    "municipio": "Marinópolis",
+    "lat": -20.5794,
+    "lng": -50.6861
+  },
+  {
+    "municipio": "Martinópolis",
+    "lat": -22.2597,
+    "lng": -51.1897
+  },
+  {
+    "municipio": "Mascote",
+    "lat": -22.6397,
+    "lng": -47.4875
+  },
+  {
+    "municipio": "Mata",
+    "lat": -22.7533,
+    "lng": -47.2869
+  },
+  {
+    "municipio": "Mogi das Cruzes",
+    "lat": -23.5186,
+    "lng": -46.1822
+  },
+  {
+    "municipio": "Mogi Guaçu",
+    "lat": -22.3781,
+    "lng": -46.9458
+  },
+  {
+    "municipio": "Mogi Mirim",
+    "lat": -22.4339,
+    "lng": -46.9458
+  },
+  {
+    "municipio": "Mombuca",
+    "lat": -22.9519,
+    "lng": -47.5028
+  },
+  {
+    "municipio": "Monções",
+    "lat": -20.8903,
+    "lng": -49.8869
+  },
+  {
+    "municipio": "Mongaguá",
+    "lat": -24.0869,
+    "lng": -46.6278
+  },
+  {
+    "municipio": "Monte Alegre do Sul",
+    "lat": -22.6972,
+    "lng": -46.7056
+  },
+  {
+    "municipio": "Monte Alto",
+    "lat": -21.2583,
+    "lng": -48.4903
+  },
+  {
+    "municipio": "Monte Aprazível",
+    "lat": -20.6125,
+    "lng": -49.7717
+  },
+  {
+    "municipio": "Monte Azul Paulista",
+    "lat": -20.8903,
+    "lng": -48.2047
+  },
+  {
+    "municipio": "Monte Castelo",
+    "lat": -21.8497,
+    "lng": -51.6861
+  },
+  {
+    "municipio": "Monte Mor",
+    "lat": -22.9431,
+    "lng": -47.2997
+  },
+  {
+    "municipio": "Monteiro Lobato",
+    "lat": -22.9242,
+    "lng": -45.7486
+  },
+  {
+    "municipio": "Morro Agudo",
+    "lat": -20.7303,
+    "lng": -47.7817
+  },
+  {
+    "municipio": "Morungaba",
+    "lat": -22.8872,
+    "lng": -46.7669
+  },
+  {
+    "municipio": "Motuca",
+    "lat": -21.6389,
+    "lng": -48.0667
+  },
+  {
+    "municipio": "Murutinga do Sul",
+    "lat": -21.2058,
+    "lng": -51.2725
+  },
+  {
+    "municipio": "Nantes",
+    "lat": -22.5028,
+    "lng": -51.2725
+  },
+  {
+    "municipio": "Narandiba",
+    "lat": -22.3781,
+    "lng": -51.4889
+  },
+  {
+    "municipio": "Natividade da Serra",
+    "lat": -23.3644,
+    "lng": -45.5417
+  },
+  {
+    "municipio": "Nazare Paulista",
+    "lat": -23.1892,
+    "lng": -46.3667
+  },
+  {
+    "municipio": "Neves Paulista",
+    "lat": -20.8903,
+    "lng": -49.4678
+  },
+  {
+    "municipio": "Nhandeara",
+    "lat": -20.6125,
+    "lng": -50.2972
+  },
+  {
+    "municipio": "Nipoã",
+    "lat": -20.9419,
+    "lng": -49.4678
+  },
+  {
+    "municipio": "Nova Campina",
+    "lat": -23.8347,
+    "lng": -49.0344
+  },
+  {
+    "municipio": "Nova Canaã Paulista",
+    "lat": -20.1569,
+    "lng": -50.9322
+  },
+  {
+    "municipio": "Nova Castilho",
+    "lat": -20.7967,
+    "lng": -51.3858
+  },
+  {
+    "municipio": "Nova Europa",
+    "lat": -21.7533,
+    "lng": -48.5131
+  },
+  {
+    "municipio": "Nova Granada",
+    "lat": -20.5794,
+    "lng": -49.3361
+  },
+  {
+    "municipio": "Nova Guataporanga",
+    "lat": -21.6853,
+    "lng": -51.8797
+  },
+  {
+    "municipio": "Nova Independência",
+    "lat": -21.0592,
+    "lng": -51.6861
+  },
+  {
+    "municipio": "Nova Luzitânia",
+    "lat": -20.6789,
+    "lng": -50.2972
+  },
+  {
+    "municipio": "Nova Odessa",
+    "lat": -22.7667,
+    "lng": -47.2997
+  },
+  {
+    "municipio": "Novais",
+    "lat": -20.9231,
+    "lng": -48.9772
+  },
+  {
+    "municipio": "Novo Horizonte",
+    "lat": -21.4886,
+    "lng": -49.2086
+  },
+  {
+    "municipio": "Nuporanga",
+    "lat": -20.6125,
+    "lng": -47.7817
+  },
+  {
+    "municipio": "Ocauçu",
+    "lat": -22.4286,
+    "lng": -49.9739
+  },
+  {
+    "municipio": "Óleo",
+    "lat": -23.1119,
+    "lng": -49.2086
+  },
+  {
+    "municipio": "Olímpia",
+    "lat": -20.7303,
+    "lng": -48.9153
+  },
+  {
+    "municipio": "Onda Verde",
+    "lat": -20.7817,
+    "lng": -49.4678
+  },
+  {
+    "municipio": "Oriente",
+    "lat": -22.3167,
+    "lng": -50.05
+  },
+  {
+    "municipio": "Orindiúva",
+    "lat": -20.2528,
+    "lng": -49.4678
+  },
+  {
+    "municipio": "Orlândia",
+    "lat": -20.7303,
+    "lng": -47.8903
+  },
+  {
+    "municipio": "Osasco",
+    "lat": -23.5328,
+    "lng": -46.7917
+  },
+  {
+    "municipio": "Oscar Bressane",
+    "lat": -22.3014,
+    "lng": -50.2972
+  },
+  {
+    "municipio": "Osvaldo Cruz",
+    "lat": -21.7806,
+    "lng": -50.8872
+  },
+  {
+    "municipio": "Ourinhos",
+    "lat": -22.9822,
+    "lng": -49.8661
+  },
+  {
+    "municipio": "Ouro Verde",
+    "lat": -20.1569,
+    "lng": -51.2725
+  },
+  {
+    "municipio": "Ouroeste",
+    "lat": -20.0883,
+    "lng": -50.575
+  },
+  {
+    "municipio": "Pacaembu",
+    "lat": -21.8497,
+    "lng": -51.5206
+  },
+  {
+    "municipio": "Palestina",
+    "lat": -20.3703,
+    "lng": -49.2789
+  },
+  {
+    "municipio": "Palmares Paulista",
+    "lat": -21.1892,
+    "lng": -48.7844
+  },
+  {
+    "municipio": "Palmeira d'Oeste",
+    "lat": -20.4044,
+    "lng": -50.7056
+  },
+  {
+    "municipio": "Palmital",
+    "lat": -22.7833,
+    "lng": -50.1111
+  },
+  {
+    "municipio": "Panorama",
+    "lat": -21.3283,
+    "lng": -51.8797
+  },
+  {
+    "municipio": "Paraguaçu Paulista",
+    "lat": -22.4286,
+    "lng": -50.575
+  },
+  {
+    "municipio": "Paraibuna",
+    "lat": -23.3644,
+    "lng": -45.6861
+  },
+  {
+    "municipio": "Paraíso",
+    "lat": -21.0592,
+    "lng": -49.2086
+  },
+  {
+    "municipio": "Paranapanema",
+    "lat": -23.3781,
+    "lng": -48.7497
+  },
+  {
+    "municipio": "Paranapuã",
+    "lat": -20.4044,
+    "lng": -50.9322
+  },
+  {
+    "municipio": "Parapuã",
+    "lat": -21.8903,
+    "lng": -50.9997
+  },
+  {
+    "municipio": "Pardinho",
+    "lat": -23.1119,
+    "lng": -48.2436
+  },
+  {
+    "municipio": "Pariquera-Açu",
+    "lat": -24.7083,
+    "lng": -47.8889
+  },
+  {
+    "municipio": "Parisi",
+    "lat": -20.2528,
+    "lng": -50.1456
+  },
+  {
+    "municipio": "Patrocínio Paulista",
+    "lat": -20.6125,
+    "lng": -47.1667
+  },
+  {
+    "municipio": "Pauliceia",
+    "lat": -21.8497,
+    "lng": -51.8797
+  },
+  {
+    "municipio": "Paulínia",
+    "lat": -22.7667,
+    "lng": -47.1667
+  },
+  {
+    "municipio": "Pederneiras",
+    "lat": -22.3653,
+    "lng": -48.7667
+  },
+  {
+    "municipio": "Pedra Bela",
+    "lat": -22.7533,
+    "lng": -46.4678
+  },
+  {
+    "municipio": "Pedranópolis",
+    "lat": -20.2528,
+    "lng": -50.2972
+  },
+  {
+    "municipio": "Pedregulho",
+    "lat": -20.2528,
+    "lng": -47.4008
+  },
+  {
+    "municipio": "Pedreira",
+    "lat": -22.7303,
+    "lng": -46.9042
+  },
+  {
+    "municipio": "Pedrinhas Paulista",
+    "lat": -22.7369,
+    "lng": -50.3958
+  },
+  {
+    "municipio": "Penápolis",
+    "lat": -21.5794,
+    "lng": -50.0769
+  },
+  {
+    "municipio": "Pereira Barreto",
+    "lat": -20.6542,
+    "lng": -51.1897
+  },
+  {
+    "municipio": "Pereiras",
+    "lat": -23.0858,
+    "lng": -47.9625
+  },
+  {
+    "municipio": "Peruíbe",
+    "lat": -24.3142,
+    "lng": -47.0194
+  },
+  {
+    "municipio": "Piacatu",
+    "lat": -21.6033,
+    "lng": -50.8872
+  },
+  {
+    "municipio": "Piedade",
+    "lat": -23.7028,
+    "lng": -47.425
+  },
+  {
+    "municipio": "Pilar do Sul",
+    "lat": -23.8347,
+    "lng": -47.6047
+  },
+  {
+    "municipio": "Pindamonhangaba",
+    "lat": -22.9242,
+    "lng": -45.4678
+  },
+  {
+    "municipio": "Pinhalzinho",
+    "lat": -22.8872,
+    "lng": -46.5411
+  },
+  {
+    "municipio": "Piquerobi",
+    "lat": -21.8497,
+    "lng": -51.6428
+  },
+  {
+    "municipio": "Piquete",
+    "lat": -22.6858,
+    "lng": -45.1458
+  },
+  {
+    "municipio": "Piracaia",
+    "lat": -23.0858,
+    "lng": -46.1667
+  },
+  {
+    "municipio": "Piracicaba",
+    "lat": -22.7214,
+    "lng": -47.6419
+  },
+  {
+    "municipio": "Piraju",
+    "lat": -23.1892,
+    "lng": -49.3889
+  },
+  {
+    "municipio": "Pirajuba",
+    "lat": -22.9519,
+    "lng": -50.1456
+  },
+  {
+    "municipio": "Pirangi",
+    "lat": -21.1403,
+    "lng": -48.6533
+  },
+  {
+    "municipio": "Pirapora do Bom Jesus",
+    "lat": -23.4111,
+    "lng": -47.0069
+  },
+  {
+    "municipio": "Pirapozinho",
+    "lat": -22.1806,
+    "lng": -51.4889
+  },
+  {
+    "municipio": "Pirassununga",
+    "lat": -21.9806,
+    "lng": -47.425
+  },
+  {
+    "municipio": "Piratininga",
+    "lat": -22.3781,
+    "lng": -49.2789
+  },
+  {
+    "municipio": "Pitangueiras",
+    "lat": -21.0183,
+    "lng": -48.2167
+  },
+  {
+    "municipio": "Planalto",
+    "lat": -20.8903,
+    "lng": -49.8869
+  },
+  {
+    "municipio": "Platina",
+    "lat": -22.5028,
+    "lng": -50.2972
+  },
+  {
+    "municipio": "Poá",
+    "lat": -23.5786,
+    "lng": -46.3667
+  },
+  {
+    "municipio": "Poloni",
+    "lat": -20.8903,
+    "lng": -49.6586
+  },
+  {
+    "municipio": "Pompéia",
+    "lat": -22.1111,
+    "lng": -50.1989
+  },
+  {
+    "municipio": "Pongaí",
+    "lat": -21.7533,
+    "lng": -49.6586
+  },
+  {
+    "municipio": "Pontal",
+    "lat": -21.1403,
+    "lng": -48.1633
+  },
+  {
+    "municipio": "Pontalinda",
+    "lat": -20.2528,
+    "lng": -50.7533
+  },
+  {
+    "municipio": "Pontes Gestal",
+    "lat": -20.2528,
+    "lng": -50.2972
+  },
+  {
+    "municipio": "Populina",
+    "lat": -20.1569,
+    "lng": -50.7533
+  },
+  {
+    "municipio": "Porangaba",
+    "lat": -23.3283,
+    "lng": -48.2436
+  },
+  {
+    "municipio": "Porto Feliz",
+    "lat": -23.2125,
+    "lng": -47.5028
+  },
+  {
+    "municipio": "Porto Ferreira",
+    "lat": -21.8497,
+    "lng": -47.5028
+  },
+  {
+    "municipio": "Potim",
+    "lat": -22.8139,
+    "lng": -45.2289
+  },
+  {
+    "municipio": "Potirendaba",
+    "lat": -20.9592,
+    "lng": -49.4678
+  },
+  {
+    "municipio": "Pracinha",
+    "lat": -21.8028,
+    "lng": -51.1897
+  },
+  {
+    "municipio": "Pradópolis",
+    "lat": -21.3283,
+    "lng": -48.0667
+  },
+  {
+    "municipio": "Praia Grande",
+    "lat": -24.0042,
+    "lng": -46.4083
+  },
+  {
+    "municipio": "Presidente Alves",
+    "lat": -22.3167,
+    "lng": -49.7717
+  },
+  {
+    "municipio": "Presidente Bernardes",
+    "lat": -22.0622,
+    "lng": -51.6428
+  },
+  {
+    "municipio": "Presidente Epitácio",
+    "lat": -21.7667,
+    "lng": -52.1228
+  },
+  {
+    "municipio": "Presidente Prudente",
+    "lat": -22.1111,
+    "lng": -51.3858
+  },
+  {
+    "municipio": "Presidente Venceslau",
+    "lat": -21.8789,
+    "lng": -51.8797
+  },
+  {
+    "municipio": "Promissão",
+    "lat": -21.5794,
+    "lng": -49.9739
+  },
+  {
+    "municipio": "Quadra",
+    "lat": -23.3644,
+    "lng": -47.9625
+  },
+  {
+    "municipio": "Quatá",
+    "lat": -22.4286,
+    "lng": -50.7958
+  },
+  {
+    "municipio": "Queiroz",
+    "lat": -21.8903,
+    "lng": -50.4139
+  },
+  {
+    "municipio": "Queluz",
+    "lat": -22.5328,
+    "lng": -44.7578
+  },
+  {
+    "municipio": "Quintana",
+    "lat": -22.0597,
+    "lng": -50.2289
+  },
+  {
+    "municipio": "Rafard",
+    "lat": -23.0858,
+    "lng": -47.5028
+  },
+  {
+    "municipio": "Rancharia",
+    "lat": -22.2597,
+    "lng": -51.2725
+  },
+  {
+    "municipio": "Redenção da Serra",
+    "lat": -23.3644,
+    "lng": -45.5417
+  },
+  {
+    "municipio": "Regente Feijó",
+    "lat": -22.2597,
+    "lng": -51.3858
+  },
+  {
+    "municipio": "Reginópolis",
+    "lat": -21.8903,
+    "lng": -49.6586
+  },
+  {
+    "municipio": "Registro",
+    "lat": -24.4842,
+    "lng": -47.8344
+  },
+  {
+    "municipio": "Restinga",
+    "lat": -20.6975,
+    "lng": -47.5028
+  },
+  {
+    "municipio": "Ribeirão Bonito",
+    "lat": -21.9806,
+    "lng": -48.2436
+  },
+  {
+    "municipio": "Ribeirão Branco",
+    "lat": -23.9056,
+    "lng": -48.6533
+  },
+  {
+    "municipio": "Ribeirão Corrente",
+    "lat": -20.4044,
+    "lng": -47.5878
+  },
+  {
+    "municipio": "Ribeirão do Sul",
+    "lat": -22.9519,
+    "lng": -50.1456
+  },
+  {
+    "municipio": "Ribeirão dos Índios",
+    "lat": -22.0622,
+    "lng": -51.8797
+  },
+  {
+    "municipio": "Ribeirão Grande",
+    "lat": -24.1614,
+    "lng": -48.5131
+  },
+  {
+    "municipio": "Ribeirão Pires",
+    "lat": -23.7028,
+    "lng": -46.4111
+  },
+  {
+    "municipio": "Ribeirão Preto",
+    "lat": -21.1703,
+    "lng": -47.8108
+  },
+  {
+    "municipio": "Rifaina",
+    "lat": -20.0883,
+    "lng": -47.4111
+  },
+  {
+    "municipio": "Rincão",
+    "lat": -21.5794,
+    "lng": -48.1633
+  },
+  {
+    "municipio": "Rinópolis",
+    "lat": -21.8497,
+    "lng": -50.8408
+  },
+  {
+    "municipio": "Rio Claro",
+    "lat": -22.4139,
+    "lng": -47.5625
+  },
+  {
+    "municipio": "Rio das Pedras",
+    "lat": -22.8347,
+    "lng": -47.5028
+  },
+  {
+    "municipio": "Rio Grande da Serra",
+    "lat": -23.7389,
+    "lng": -46.3667
+  },
+  {
+    "municipio": "Riolândia",
+    "lat": -20.1569,
+    "lng": -49.9739
+  },
+  {
+    "municipio": "Riversul",
+    "lat": -23.7917,
+    "lng": -49.2086
+  },
+  {
+    "municipio": "Rosana",
+    "lat": -22.5806,
+    "lng": -53.0717
+  },
+  {
+    "municipio": "Roseira",
+    "lat": -22.8903,
+    "lng": -45.4147
+  },
+  {
+    "municipio": "Rubiácea",
+    "lat": -21.2828,
+    "lng": -50.8408
+  },
+  {
+    "municipio": "Rubinéia",
+    "lat": -20.1569,
+    "lng": -50.9322
+  },
+  {
+    "municipio": "Sabino",
+    "lat": -21.8903,
+    "lng": -49.5828
+  },
+  {
+    "municipio": "Sagres",
+    "lat": -21.8028,
+    "lng": -51.0556
+  },
+  {
+    "municipio": "Sales",
+    "lat": -21.3283,
+    "lng": -49.9739
+  },
+  {
+    "municipio": "Sales Oliveira",
+    "lat": -20.7817,
+    "lng": -47.8889
+  },
+  {
+    "municipio": "Salesópolis",
+    "lat": -23.5414,
+    "lng": -45.8872
+  },
+  {
+    "municipio": "Salmourão",
+    "lat": -21.8028,
+    "lng": -51.0069
+  },
+  {
+    "municipio": "Saltinho",
+    "lat": -22.6858,
+    "lng": -47.7478
+  },
+  {
+    "municipio": "Salto",
+    "lat": -23.2036,
+    "lng": -47.2889
+  },
+  {
+    "municipio": "Salto de Pirapora",
+    "lat": -23.5931,
+    "lng": -47.6047
+  },
+  {
+    "municipio": "Salto Grande",
+    "lat": -22.9519,
+    "lng": -49.9739
+  },
+  {
+    "municipio": "Santa Adélia",
+    "lat": -21.3789,
+    "lng": -48.7844
+  },
+  {
+    "municipio": "Santa Albertina",
+    "lat": -20.1989,
+    "lng": -50.6861
+  },
+  {
+    "municipio": "Santa Bárbara d'Oeste",
+    "lat": -22.7533,
+    "lng": -47.4111
+  },
+  {
+    "municipio": "Santa Branca",
+    "lat": -23.3644,
+    "lng": -45.8872
+  },
+  {
+    "municipio": "Santa Clara d'Oeste",
+    "lat": -20.2528,
+    "lng": -50.8408
+  },
+  {
+    "municipio": "Santa Cruz da Conceição",
+    "lat": -22.1806,
+    "lng": -47.4111
+  },
+  {
+    "municipio": "Santa Cruz da Esperança",
+    "lat": -21.2181,
+    "lng": -47.3828
+  },
+  {
+    "municipio": "Santa Cruz das Palmeiras",
+    "lat": -21.8497,
+    "lng": -47.2869
+  },
+  {
+    "municipio": "Santa Cruz do Rio Pardo",
+    "lat": -22.8903,
+    "lng": -49.6586
+  },
+  {
+    "municipio": "Santa Ernestina",
+    "lat": -21.4397,
+    "lng": -48.4417
+  },
+  {
+    "municipio": "Santa Fé do Sul",
+    "lat": -20.2181,
+    "lng": -50.9322
+  },
+  {
+    "municipio": "Santa Gertrudes",
+    "lat": -22.4339,
+    "lng": -47.5458
+  },
+  {
+    "municipio": "Santa Isabel",
+    "lat": -23.3167,
+    "lng": -46.2217
+  },
+  {
+    "municipio": "Santa Lúcia",
+    "lat": -21.6853,
+    "lng": -48.3781
+  },
+  {
+    "municipio": "Santa Maria da Serra",
+    "lat": -22.6506,
+    "lng": -47.9625
+  },
+  {
+    "municipio": "Santa Mercedes",
+    "lat": -21.6853,
+    "lng": -51.6861
+  },
+  {
+    "municipio": "Santa Rita do Passa Quatro",
+    "lat": -21.7806,
+    "lng": -47.5878
+  },
+  {
+    "municipio": "Santa Rita d'Oeste",
+    "lat": -20.4578,
+    "lng": -50.575
+  },
+  {
+    "municipio": "Santa Rosa de Viterbo",
+    "lat": -21.3789,
+    "lng": -47.3828
+  },
+  {
+    "municipio": "Santa Salete",
+    "lat": -20.1569,
+    "lng": -50.7056
+  },
+  {
+    "municipio": "Santana da Ponte Pensa",
+    "lat": -20.1569,
+    "lng": -50.8408
+  },
+  {
+    "municipio": "Santana de Parnaíba",
+    "lat": -23.4478,
+    "lng": -46.9042
+  },
+  {
+    "municipio": "Santo Anastácio",
+    "lat": -21.9806,
+    "lng": -51.6428
+  },
+  {
+    "municipio": "Santo André",
+    "lat": -23.6592,
+    "lng": -46.5292
+  },
+  {
+    "municipio": "Santo Antônio da Alegria",
+    "lat": -20.7817,
+    "lng": -47.0194
+  },
+  {
+    "municipio": "Santo Antônio de Posse",
+    "lat": -22.6506,
+    "lng": -46.9636
+  },
+  {
+    "municipio": "Santo Antônio do Aracanguá",
+    "lat": -21.2828,
+    "lng": -50.7533
+  },
+  {
+    "municipio": "Santo Antônio do Jardim",
+    "lat": -22.0578,
+    "lng": -46.7797
+  },
+  {
+    "municipio": "Santo Expedito",
+    "lat": -22.0622,
+    "lng": -51.5206
+  },
+  {
+    "municipio": "Santópolis do Aguapeí",
+    "lat": -21.7533,
+    "lng": -50.6092
+  },
+  {
+    "municipio": "São Bento do Sapucaí",
+    "lat": -22.6858,
+    "lng": -45.7486
+  },
+  {
+    "municipio": "São Bernardo do Campo",
+    "lat": -23.6844,
+    "lng": -46.5686
+  },
+  {
+    "municipio": "São Caetano do Sul",
+    "lat": -23.6231,
+    "lng": -46.5506
+  },
+  {
+    "municipio": "São Carlos",
+    "lat": -21.9806,
+    "lng": -47.8889
+  },
+  {
+    "municipio": "São Francisco",
+    "lat": -20.2528,
+    "lng": -50.4194
+  },
+  {
+    "municipio": "São João da Boa Vista",
+    "lat": -21.9806,
+    "lng": -46.7797
+  },
+  {
+    "municipio": "São João das Duas Pontes",
+    "lat": -20.5794,
+    "lng": -50.2972
+  },
+  {
+    "municipio": "São João de Iracema",
+    "lat": -20.4578,
+    "lng": -50.8408
+  },
+  {
+    "municipio": "São João do Pau d'Alho",
+    "lat": -21.6853,
+    "lng": -51.6428
+  },
+  {
+    "municipio": "São Joaquim da Barra",
+    "lat": -20.5892,
+    "lng": -47.8519
+  },
+  {
+    "municipio": "São José da Bela Vista",
+    "lat": -20.5067,
+    "lng": -47.7817
+  },
+  {
+    "municipio": "São José do Barreiro",
+    "lat": -22.6858,
+    "lng": -44.5911
+  },
+  {
+    "municipio": "São José do Rio Pardo",
+    "lat": -21.5794,
+    "lng": -46.8889
+  },
+  {
+    "municipio": "São José do Rio Preto",
+    "lat": -20.8139,
+    "lng": -49.3781
+  },
+  {
+    "municipio": "São José dos Campos",
+    "lat": -23.1892,
+    "lng": -45.8825
+  },
+  {
+    "municipio": "São Lourenço da Serra",
+    "lat": -23.8347,
+    "lng": -46.9042
+  },
+  {
+    "municipio": "São Luís do Paraitinga",
+    "lat": -23.2125,
+    "lng": -45.3194
+  },
+  {
+    "municipio": "São Manuel",
+    "lat": -22.7153,
+    "lng": -48.5833
+  },
+  {
+    "municipio": "São Miguel Arcanjo",
+    "lat": -23.8633,
+    "lng": -48.0667
+  },
+  {
+    "municipio": "São Paulo",
+    "lat": -23.5505,
+    "lng": -46.6333
+  },
+  {
+    "municipio": "São Pedro",
+    "lat": -22.5403,
+    "lng": -47.9153
+  },
+  {
+    "municipio": "São Pedro do Turvo",
+    "lat": -22.8903,
+    "lng": -49.9739
+  },
+  {
+    "municipio": "São Roque",
+    "lat": -23.5361,
+    "lng": -47.1353
+  },
+  {
+    "municipio": "São Sebastião",
+    "lat": -23.7844,
+    "lng": -45.4097
+  },
+  {
+    "municipio": "São Sebastião da Grama",
+    "lat": -21.7533,
+    "lng": -46.8889
+  },
+  {
+    "municipio": "São Simão",
+    "lat": -21.4886,
+    "lng": -47.5878
+  },
+  {
+    "municipio": "São Vicente",
+    "lat": -23.9667,
+    "lng": -46.3917
+  },
+  {
+    "municipio": "Sarapuí",
+    "lat": -23.5861,
+    "lng": -47.8889
+  },
+  {
+    "municipio": "Sarutaiá",
+    "lat": -23.4072,
+    "lng": -49.3361
+  },
+  {
+    "municipio": "Sebastianópolis do Sul",
+    "lat": -20.4578,
+    "lng": -49.9739
+  },
+  {
+    "municipio": "Serra Azul",
+    "lat": -21.3283,
+    "lng": -47.5878
+  },
+  {
+    "municipio": "Serra Negra",
+    "lat": -22.6078,
+    "lng": -46.7056
+  },
+  {
+    "municipio": "Serrana",
+    "lat": -21.2336,
+    "lng": -47.5878
+  },
+  {
+    "municipio": "Sertãozinho",
+    "lat": -21.1892,
+    "lng": -47.9944
+  },
+  {
+    "municipio": "Sete Barras",
+    "lat": -24.3142,
+    "lng": -47.8889
+  },
+  {
+    "municipio": "Severínia",
+    "lat": -20.7303,
+    "lng": -48.7844
+  },
+  {
+    "municipio": "Silveiras",
+    "lat": -22.6858,
+    "lng": -44.8889
+  },
+  {
+    "municipio": "Socorro",
+    "lat": -22.5806,
+    "lng": -46.5861
+  },
+  {
+    "municipio": "Sorocaba",
+    "lat": -23.4903,
+    "lng": -47.4569
+  },
+  {
+    "municipio": "Sud Mennucci",
+    "lat": -20.6789,
+    "lng": -50.9322
+  },
+  {
+    "municipio": "Sumaré",
+    "lat": -22.8222,
+    "lng": -47.1083
+  },
+  {
+    "municipio": "Suzanápolis",
+    "lat": -20.3547,
+    "lng": -51.2725
+  },
+  {
+    "municipio": "Suzano",
+    "lat": -23.5414,
+    "lng": -46.3075
+  },
+  {
+    "municipio": "Tabapuã",
+    "lat": -20.9419,
+    "lng": -49.0344
+  },
+  {
+    "municipio": "Tabatinga",
+    "lat": -21.7533,
+    "lng": -48.7844
+  },
+  {
+    "municipio": "Taboão da Serra",
+    "lat": -23.6067,
+    "lng": -46.7669
+  },
+  {
+    "municipio": "Taciba",
+    "lat": -22.4286,
+    "lng": -51.3858
+  },
+  {
+    "municipio": "Taguaí",
+    "lat": -23.5131,
+    "lng": -49.2086
+  },
+  {
+    "municipio": "Taiaçu",
+    "lat": -21.1403,
+    "lng": -48.5131
+  },
+  {
+    "municipio": "Taiúva",
+    "lat": -21.1403,
+    "lng": -48.6533
+  },
+  {
+    "municipio": "Tambaú",
+    "lat": -21.7083,
+    "lng": -47.2869
+  },
+  {
+    "municipio": "Tanabi",
+    "lat": -20.6125,
+    "lng": -49.6586
+  },
+  {
+    "municipio": "Tapiraí",
+    "lat": -23.9056,
+    "lng": -47.5028
+  },
+  {
+    "municipio": "Tapiratiba",
+    "lat": -21.2181,
+    "lng": -47.0194
+  },
+  {
+    "municipio": "Taquaral",
+    "lat": -21.0592,
+    "lng": -48.2436
+  },
+  {
+    "municipio": "Taquaritinga",
+    "lat": -21.4036,
+    "lng": -48.5042
+  },
+  {
+    "municipio": "Taquarituba",
+    "lat": -23.7028,
+    "lng": -49.4678
+  },
+  {
+    "municipio": "Taquarivaí",
+    "lat": -23.9519,
+    "lng": -48.6533
+  },
+  {
+    "municipio": "Tarabai",
+    "lat": -22.3781,
+    "lng": -51.5206
+  },
+  {
+    "municipio": "Tarumã",
+    "lat": -22.7533,
+    "lng": -50.4139
+  },
+  {
+    "municipio": "Tatuí",
+    "lat": -23.3514,
+    "lng": -47.8519
+  },
+  {
+    "municipio": "Taubaté",
+    "lat": -23.0319,
+    "lng": -45.5686
+  },
+  {
+    "municipio": "Tejupá",
+    "lat": -23.4072,
+    "lng": -49.3361
+  },
+  {
+    "municipio": "Teodoro Sampaio",
+    "lat": -22.4286,
+    "lng": -52.1228
+  },
+  {
+    "municipio": "Terra Roxa",
+    "lat": -20.7303,
+    "lng": -48.3781
+  },
+  {
+    "municipio": "Tietê",
+    "lat": -23.1119,
+    "lng": -47.7608
+  },
+  {
+    "municipio": "Taboão da Serra",
+    "lat": -23.6067,
+    "lng": -46.7669
+  },
+  {
+    "municipio": "Timburi",
+    "lat": -23.4478,
+    "lng": -49.6586
+  },
+  {
+    "municipio": "Torre de Pedra",
+    "lat": -23.3283,
+    "lng": -48.2436
+  },
+  {
+    "municipio": "Torrinha",
+    "lat": -22.4081,
+    "lng": -48.1111
+  },
+  {
+    "municipio": "Trabiju",
+    "lat": -21.8497,
+    "lng": -48.4417
+  },
+  {
+    "municipio": "Tremembé",
+    "lat": -22.9519,
+    "lng": -45.5686
+  },
+  {
+    "municipio": "Três Fronteiras",
+    "lat": -20.2528,
+    "lng": -51.0556
+  },
+  {
+    "municipio": "Tuiuti",
+    "lat": -22.8903,
+    "lng": -46.6194
+  },
+  {
+    "municipio": "Tupã",
+    "lat": -21.9481,
+    "lng": -50.5181
+  },
+  {
+    "municipio": "Tupi Paulista",
+    "lat": -21.3789,
+    "lng": -51.4889
+  },
+  {
+    "municipio": "Turiúba",
+    "lat": -20.8903,
+    "lng": -50.1456
+  },
+  {
+    "municipio": "Turmalina",
+    "lat": -20.1569,
+    "lng": -50.575
+  },
+  {
+    "municipio": "Ubarana",
+    "lat": -21.0592,
+    "lng": -49.7717
+  },
+  {
+    "municipio": "Ubatuba",
+    "lat": -23.4319,
+    "lng": -45.0833
+  },
+  {
+    "municipio": "Ubirajara",
+    "lat": -22.4286,
+    "lng": -49.8869
+  },
+  {
+    "municipio": "Uchoa",
+    "lat": -20.9419,
+    "lng": -49.2086
+  },
+  {
+    "municipio": "União Paulista",
+    "lat": -20.6125,
+    "lng": -49.9739
+  },
+  {
+    "municipio": "Urânia",
+    "lat": -20.2528,
+    "lng": -50.575
+  },
+  {
+    "municipio": "Uru",
+    "lat": -21.8028,
+    "lng": -49.2789
+  },
+  {
+    "municipio": "Urupês",
+    "lat": -21.1403,
+    "lng": -49.2789
+  },
+  {
+    "municipio": "Valentim Gentil",
+    "lat": -20.4044,
+    "lng": -50.2972
+  },
+  {
+    "municipio": "Valinhos",
+    "lat": -22.9694,
+    "lng": -47.0069
+  },
+  {
+    "municipio": "Valparaíso",
+    "lat": -21.2828,
+    "lng": -50.8408
+  },
+  {
+    "municipio": "Vargem",
+    "lat": -22.8872,
+    "lng": -46.4678
+  },
+  {
+    "municipio": "Vargem Grande do Sul",
+    "lat": -21.8497,
+    "lng": -46.8889
+  },
+  {
+    "municipio": "Vargem Grande Paulista",
+    "lat": -23.6592,
+    "lng": -47.0194
+  },
+  {
+    "municipio": "Várzea Paulista",
+    "lat": -23.2125,
+    "lng": -46.8042
+  },
+  {
+    "municipio": "Vera Cruz",
+    "lat": -22.2153,
+    "lng": -49.9739
+  },
+  {
+    "municipio": "Vinhedo",
+    "lat": -23.0294,
+    "lng": -46.9786
+  },
+  {
+    "municipio": "Viradouro",
+    "lat": -20.8903,
+    "lng": -48.2436
+  },
+  {
+    "municipio": "Vista Alegre do Alto",
+    "lat": -21.2828,
+    "lng": -48.4417
+  },
+  {
+    "municipio": "Vitória Brasil",
+    "lat": -20.1569,
+    "lng": -50.8408
+  },
+  {
+    "municipio": "Votorantim",
+    "lat": -23.5861,
+    "lng": -47.4589
+  },
+  {
+    "municipio": "Votuporanga",
+    "lat": -20.4217,
+    "lng": -49.9761
+  },
+  {
+    "municipio": "Zacarias",
+    "lat": -21.0592,
+    "lng": -50.1456
   }
 ]
