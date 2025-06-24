@@ -30,19 +30,7 @@ document.addEventListener('DOMContentLoaded', async function () {
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
         let markersLayer = L.layerGroup().addTo(map);
 
-        const input = document.getElementById('filtroRapido');
-        input.addEventListener('input', () => {
-            const termo = input.value.toLowerCase();
-            const encontrado = allData.find(c => c.m.toLowerCase().includes(termo));
-            if (encontrado && encontrado.a && encontrado.o) {
-                markersLayer.clearLayers();
-                const marker = L.marker([encontrado.a, encontrado.o])
-                    .addTo(markersLayer)
-                    .bindPopup(`<strong>${encontrado.m}</strong>`)
-                    .openPopup();
-                map.setView([encontrado.a, encontrado.o], 12);
-            }
-        });
+        // Removido filtro rápido do mapa para simplificar a interface
 
         // Filtros adicionais podem ser implementados aqui no futuro
 

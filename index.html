@@ -96,25 +96,6 @@
     <div class="container mt-3">
         <div id="loader" style="text-align: center; padding: 10px; background-color: #dff9ff; color: #0d6efd;">Carregando dados...</div>
 
-<div class="container mb-3">
-  <div class="row g-2">
-    <div class="col-md">
-      <input id="filtroRapido" type="text" class="form-control" placeholder="🔍 Filtrar por cidade" />
-    </div>
-    <div class="col-md">
-      <input id="filtroPraca" type="text" class="form-control" placeholder="Praça" />
-    </div>
-    <div class="col-md">
-      <input id="filtroFilial" type="text" class="form-control" placeholder="Filial" />
-    </div>
-    <div class="col-md">
-      <input id="filtroData" type="date" class="form-control" />
-    </div>
-    <div class="col-md">
-      <input id="filtroRegiao" type="text" class="form-control" placeholder="Região" />
-    </div>
-  </div>
-</div>
 
 <div id="map"></div>
     </div>
@@ -196,28 +177,6 @@
 
         <!-- Resultados e Estatísticas -->
         
-<div class="row mb-3">
-    <div class="col-md-2">
-        <label for="filtroPraca" class="form-label">Praça:</label>
-        <input type="text" id="filtroPraca" class="form-control" placeholder="Digite a praça">
-    </div>
-    <div class="col-md-2">
-        <label for="filtroCidade" class="form-label">Cidade:</label>
-        <input type="text" id="filtroCidade" class="form-control" placeholder="Digite a cidade">
-    </div>
-    <div class="col-md-2">
-        <label for="filtroFilial" class="form-label">Filial:</label>
-        <input type="text" id="filtroFilial" class="form-control" placeholder="Digite a filial">
-    </div>
-    <div class="col-md-2">
-        <label for="filtroData" class="form-label">Data de Carregamento:</label>
-        <input type="date" id="filtroData" class="form-control">
-    </div>
-    <div class="col-md-2">
-        <label for="filtroRegiao" class="form-label">Região:</label>
-        <input type="text" id="filtroRegiao" class="form-control" placeholder="Digite a região">
-    </div>
-</div>
 
 <div class="row mb-3">
             <div class="col-md-12">
@@ -264,12 +223,12 @@
     </div>
 
     <!-- Bootstrap JS e Popper.js -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" defer></script>
     <!-- Script da aplicação -->
-    <script src="app.js"></script>
+    <script src="app.js" defer></script>
 
     <!-- Leaflet JS -->
-    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" defer></script>
 </body>
 
 </html>
