@@ -1,60 +1,46 @@
-# Manual de Instruções - Aplicação de Consulta de Praças e Municípios
+# Manual de Instruções - CRUD Simples de Produtos
 
 ## Visão Geral
 
-Esta aplicação web permite filtrar e consultar informações da planilha "Consolidado_Pracas_Municipios.xlsx" através de uma interface amigável e responsiva desenvolvida com Bootstrap. A aplicação oferece filtros simples e avançados, ordenação, paginação e exportação de dados.
+Esta aplicação web permite **cadastrar, listar, editar e excluir produtos** em uma interface simples com Bootstrap. Os dados ficam salvos no navegador usando **localStorage**.
 
 ## Funcionalidades Principais
 
-### 1. Filtro Rápido
-- Localizado na parte superior da página
-- Permite buscar em todas as colunas simultaneamente
-- Digite qualquer termo para filtrar instantaneamente os resultados
+### 1. Cadastro de Produto
+- Preencha os campos:
+  - Nome
+  - Categoria
+  - Preço
+  - Estoque
+- Clique em **Salvar** para adicionar o produto.
 
-### 2. Filtros Avançados
-- Permite filtrar por colunas específicas:
-  - Região
-  - Praça
-  - Cidade
-  - Filial
-  - Data Carregamento
-- Selecione os valores desejados e clique em "Aplicar"
-- Para limpar os filtros, clique em "Limpar"
-- O botão com ícone de seta no cabeçalho permite expandir/recolher os filtros avançados
+### 2. Listagem de Produtos
+- Os produtos cadastrados aparecem na tabela.
+- A coluna de ações contém os botões **Editar** e **Excluir**.
 
-### 3. Ordenação
-- Clique no botão "Ordenar" para abrir as opções
-- Selecione a coluna desejada e depois escolha a ordem (crescente ou decrescente)
-- A ordenação atual é exibida no botão
+### 3. Edição de Produto
+- Clique em **Editar** no item desejado.
+- O formulário será preenchido com os dados do produto.
+- Clique em **Atualizar** para confirmar a alteração.
+- Use **Cancelar edição** para voltar ao modo de cadastro.
 
-### 4. Paginação
-- Navegue entre as páginas usando os controles na parte inferior
-- Altere o número de registros por página através do seletor "por página"
+### 4. Exclusão de Produto
+- Clique em **Excluir** para remover o produto da lista.
 
-### 5. Exportação
-- Clique em "Exportar CSV" para baixar os dados filtrados em formato CSV
-- O arquivo exportado contém apenas os registros que estão atualmente filtrados
+### 5. Busca
+- O campo de busca filtra os produtos por **nome** ou **categoria** em tempo real.
 
-## Dicas de Uso
-
-1. **Combinação de Filtros**: Você pode combinar o filtro rápido com os filtros avançados para refinar ainda mais sua busca.
-
-2. **Visualização de Dados**: A tabela mostra automaticamente o número total de registros e quantos estão sendo exibidos após a aplicação dos filtros.
-
-3. **Responsividade**: A aplicação funciona em dispositivos móveis e desktops, adaptando-se automaticamente ao tamanho da tela.
-
-4. **Performance**: Para melhor desempenho em grandes conjuntos de dados, utilize os filtros avançados para reduzir o número de registros antes de aplicar ordenações complexas.
-
-## Requisitos Técnicos
-
-- Navegador web moderno (Chrome, Firefox, Edge, Safari)
-- Conexão com internet para carregar as bibliotecas Bootstrap e Font Awesome
-- JavaScript habilitado no navegador
+### 6. Persistência de Dados
+- Os produtos são armazenados no `localStorage` do navegador.
+- Ao recarregar a página, os dados permanecem disponíveis no mesmo navegador.
 
 ## Arquivos da Aplicação
 
-- **index.html**: Estrutura da página e interface do usuário
-- **app.js**: Lógica de funcionamento, filtros e manipulação de dados
-- **data.json**: Dados convertidos da planilha original
+- **index.html**: estrutura da interface do CRUD.
+- **app.js**: lógica de cadastro, edição, exclusão, busca e persistência.
 
-Para qualquer dúvida adicional ou suporte, entre em contato.
+## Requisitos Técnicos
+
+- Navegador moderno (Chrome, Firefox, Edge, Safari)
+- JavaScript habilitado
+- Internet para carregar o Bootstrap via CDN
